@@ -1,16 +1,24 @@
-#include <stdio.h>
-
+#include <iostream>
 using namespace std;
 
-<vector> rev(<vector> arr, int i, int j) {
-    if (i >= j)
-        return arr;
-    swap(arr[i], arr[j]);
-    rev(arr, i++, j--);
+void printReverse(int arr[], int n) {
+    if (n <= 0) {
+        return;
+    }
+    cout << arr[n - 1] << ' ';
+    printReverse(arr, n - 1);
 }
 
-int main () {
-    <vector> arr = [1, 2, 3, 4, 5];
-    int i = 0, j = 4;
-    rev(arr, i, j);
+int main() {
+    int n;
+    cin >> n;
+    int* arr = new int[n];
+    for (int i = 0; i < n; ++i) {
+        cin >> arr[i];
+    }
+    printReverse(arr, n);
+    cout << endl;
+
+    delete[] arr;
+    return 0;
 }

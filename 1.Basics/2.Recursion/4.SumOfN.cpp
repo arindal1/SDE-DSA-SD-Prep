@@ -1,6 +1,6 @@
-int sum (i, sum) {
-    if (i < 1) {
-        return sum;
+int sumFirstN(int n) {
+    if (n <= 0) {
+        return 0;
     }
-    sum (i-1, sum+i);
+    return n + sumFirstN(n - 1);
 }

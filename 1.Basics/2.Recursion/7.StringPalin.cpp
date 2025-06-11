@@ -1,18 +1,29 @@
-#include <stdio>
+#include <iostream>
 #include <string>
-
 using namespace std;
 
-boolean pal(string str, int i, int j) {
-    if (i >= j)
+bool isPalindromeRecursive(const string& s, int left, int right) {
+    if (left >= right) {
         return true;
-    if (str[i] != str[j])
+    }
+    if (s[left] != s[right]) {
         return false;
-    rev(arr, i++, j--);
+    }
+    return isPalindromeRecursive(s, left + 1, right - 1);
 }
 
-int main () {
-    string str = "RACECAR"
-    int i = 0, j = 6;
-    rev(arr, i, j);
+bool isPalindrome(const string& s) {
+    return isPalindromeRecursive(s, 0, static_cast<int>(s.length()) - 1);
+}
+
+int main() {
+    string s;
+    getline(cin, s);
+
+    if (isPalindrome(s)) {
+        cout << '"' << s << "\" is a palindrome.\n";
+    } else {
+        cout << '"' << s << "\" is not a palindrome.\n";
+    }
+    return 0;
 }

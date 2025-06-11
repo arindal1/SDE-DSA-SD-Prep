@@ -1,9 +1,7 @@
-c = 0;
-int num() {
-    if (c == n) {
-        return n;
+void printFirstN(int n) {
+    if (n <= 0) {
+        return;
     }
-    cout << "c";
-    c++;
-    num();
+    printFirstN(n - 1);
+    cout << n << '\n';
 }

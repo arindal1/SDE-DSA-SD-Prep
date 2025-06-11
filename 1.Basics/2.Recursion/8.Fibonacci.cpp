@@ -1,13 +1,5 @@
-#include <stdio>
-
-using namespace std;
-
-int fib(int n) {
-    if (n <= 1)
-        return n;
-    return fib(n-1) + fib(n-2);
-}
-
-int main () {
-    fib(5);
+int fib(int k) {
+    if (k == 0) return 0;
+    if (k == 1) return 1;
+    return fib(k - 1) + fib(k - 2);
 }

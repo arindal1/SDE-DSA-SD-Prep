@@ -1,7 +1,8 @@
-int name(n){
-    if (n == 0) {
-        return 0;
+void printName(int n) {
+    if (n <= 0) {
+        return;
     }
-    cout << "name";
-    name(n--);
+
+    cout << "name" << '\n';
+    printName(n - 1);
 }

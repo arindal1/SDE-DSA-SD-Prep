@@ -1,6 +1,6 @@
-n, fact;
-int fact (i, fac) {
-    if (i < 1)
-        return fact;
-    fact (i-1, fact*i);
+long long factorial(int n) {
+    if (n <= 1) {
+        return 1LL;
+    }
+    return n * factorial(n - 1);
 }
