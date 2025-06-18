@@ -25,88 +25,54 @@ Each section is further broken into:
 ---
 ---
 
-## 🧠 Basics
 
-### 📘 1. Maths
-
-| Problem           | Explanation                                         | Code |
-| ----------------- | --------------------------------------------------- | ---- |
-| Count the Digits  | [📄 MD](./1.Basics/1.Maths/1.CountTheDigits.md)     | -    |
-| Reverse a Number  | [📄 MD](./1.Basics/1.Maths/2.ReverseNumber.md)      | -    |
-| Palindrome Number | [📄 MD](./1.Basics/1.Maths/3.PalindromeNumber.md)   | -    |
-| GCD               | [📄 MD](./1.Basics/1.Maths/4.GCD.md)                | -    |
-| Armstrong Number  | [📄 MD](./1.Basics/1.Maths/5.Armstrong%20Number.md) | -    |
-| All Divisors      | [📄 MD](./1.Basics/1.Maths/6.AllDivisors.md)        | -    |
-| Check Prime       | [📄 MD](./1.Basics/1.Maths/7.CheckPrime.md)         | -    |
-
----
-
-### 🔁 2. Recursion
-
-| Problem           | Explanation                                      | Code                                               |
-| ----------------- | ------------------------------------------------ | -------------------------------------------------- |
-| Print N Names     | [📄 MD](./1.Basics/2.Recursion/1.N-Names.md)     | [💻 CPP](./1.Basics/2.Recursion/1.N-Names.cpp)     |
-| 1 to N            | [📄 MD](./1.Basics/2.Recursion/2.1-N.md)         | [💻 CPP](./1.Basics/2.Recursion/2.1-N.cpp)         |
-| N to 1            | [📄 MD](./1.Basics/2.Recursion/3.N-1.md)         | [💻 CPP](./1.Basics/2.Recursion/3.N-1.cpp)         |
-| Sum of N          | [📄 MD](./1.Basics/2.Recursion/4.SumOfN.md)      | [💻 CPP](./1.Basics/2.Recursion/4.SumOfN.cpp)      |
-| Factorial of N    | [📄 MD](./1.Basics/2.Recursion/5.FactofN.md)     | [💻 CPP](./1.Basics/2.Recursion/5.FactofN.cpp)     |
-| Reverse Array     | [📄 MD](./1.Basics/2.Recursion/6.RevArray.md)    | [💻 CPP](./1.Basics/2.Recursion/6.RevArray.cpp)    |
-| Palindrome String | [📄 MD](./1.Basics/2.Recursion/7.StringPalin.md) | [💻 CPP](./1.Basics/2.Recursion/7.StringPalin.cpp) |
-| Fibonacci         | [📄 MD](./1.Basics/2.Recursion/8.Fibonacci.md)   | [💻 CPP](./1.Basics/2.Recursion/8.Fibonacci.cpp)   |
-
----
-
-### 🔐 3. Hashing
-
-| Problem                       | Explanation                                       | Code                                                |
-| ----------------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| Frequency of Array Elements   | [📄 MD](./1.Basics/3.Hashing/1.FreqOfArrayEl.md)  | [💻 CPP](./1.Basics/3.Hashing/1.FreqOfArrayEl.cpp)  |
-| Highest & Lowest Freq Element | [📄 MD](./1.Basics/3.Hashing/2.HighLowFreqEl.md)  | [💻 CPP](./1.Basics/3.Hashing/2.HighLowFreqEl.cpp)  |
-| First Unique Character        | [📄 MD](./1.Basics/3.Hashing/3.FirstUnique.md)    | [💻 CPP](./1.Basics/3.Hashing/3.FirstUnique.cpp)    |
-| Find Difference               | [📄 MD](./1.Basics/3.Hashing/4.FindDifference.md) | [💻 CPP](./1.Basics/3.Hashing/4.FindDifference.cpp) |
-
----
-
-## 🔢 Sorting
-
-### 📑 1. Elementary Sorting
-
-| Algorithm      | Explanation                                       | Code                                                |
-| -------------- | ------------------------------------------------- | --------------------------------------------------- |
-| Selection Sort | [📄 MD](./2.Sorting/1.Sorting/1.SelectionSort.md) | [💻 CPP](./2.Sorting/1.Sorting/1.SelectionSort.cpp) |
-| Bubble Sort    | [📄 MD](./2.Sorting/1.Sorting/2.BubbleSort.md)    | [💻 CPP](./2.Sorting/1.Sorting/2.BubbleSort.cpp)    |
-| Insertion Sort | [📄 MD](./2.Sorting/1.Sorting/3.InsertionSort.md) | [💻 CPP](./2.Sorting/1.Sorting/3.InsertionSort.cpp) |
-
----
-
-### 📈 2. Advanced Sorting
-
-| Algorithm  | Explanation                                   | Code                                            |
-| ---------- | --------------------------------------------- | ----------------------------------------------- |
-| Merge Sort | [📄 MD](./2.Sorting/2.Sorting/1.MergeSort.md) | [💻 CPP](./2.Sorting/2.Sorting/1.MergeSort.cpp) |
-| Quick Sort | [📄 MD](./2.Sorting/2.Sorting/2.QuickSort.md) | [💻 CPP](./2.Sorting/2.Sorting/2.QuickSort.cpp) |
-
----
-
-## ♠️ Arrays
-
-### 📑 1. Easy
-
-| Algorithm  | Explanation                                   | Code                                            |
-| ---------- | --------------------------------------------- | ----------------------------------------------- |
-| Largest Element in the Array | [📄 MD](./3.Arrays/1.Easy/1.LargestElement.md) | [💻 CPP](./3.Arrays/1.Easy/1.LargestElement.cpp) |
-| Second Largest Element in the Array | [📄 MD](./3.Arrays/1.Easy/2.SecondLargestElement.md) | [💻 CPP](./3.Arrays/1.Easy/2.SecondLargestElement.cpp) |
-| Is Array Sorted? | [📄 MD](./3.Arrays/1.Easy/3.IsArraySorted.md) | [💻 CPP](./3.Arrays/1.Easy/3.IsArraySorted.cpp) |
-| Remove Duplicates from Array | [📄 MD](./3.Arrays/1.Easy/4.RemoveDuplicates.md) | [💻 CPP](./3.Arrays/1.Easy/4.RemoveDuplicates.cpp) |
+| Category   | Subcategory      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------- | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🧠 Basics  | 📘 1. Maths      | Count the Digits                    | [📄 MD](./1.Basics/1.Maths/1.CountTheDigits.md)       | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | Reverse a Number                    | [📄 MD](./1.Basics/1.Maths/2.ReverseNumber.md)        | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | Palindrome Number                   | [📄 MD](./1.Basics/1.Maths/3.PalindromeNumber.md)     | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | GCD                                 | [📄 MD](./1.Basics/1.Maths/4.GCD.md)                  | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | Armstrong Number                    | [📄 MD](./1.Basics/1.Maths/5.Armstrong%20Number.md)   | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | All Divisors                        | [📄 MD](./1.Basics/1.Maths/6.AllDivisors.md)          | –                                                       |
+| 🧠 Basics  | 📘 1. Maths      | Check Prime                         | [📄 MD](./1.Basics/1.Maths/7.CheckPrime.md)           | –                                                       |
+| 🧠 Basics  | 🔁 2. Recursion  | Print N Names                       | [📄 MD](./1.Basics/2.Recursion/1.N-Names.md)          | [💻 CPP](./1.Basics/2.Recursion/1.N-Names.cpp)          |
+| 🧠 Basics  | 🔁 2. Recursion  | 1 to N                              | [📄 MD](./1.Basics/2.Recursion/2.1-N.md)              | [💻 CPP](./1.Basics/2.Recursion/2.1-N.cpp)              |
+| 🧠 Basics  | 🔁 2. Recursion  | N to 1                              | [📄 MD](./1.Basics/2.Recursion/3.N-1.md)              | [💻 CPP](./1.Basics/2.Recursion/3.N-1.cpp)              |
+| 🧠 Basics  | 🔁 2. Recursion  | Sum of N                            | [📄 MD](./1.Basics/2.Recursion/4.SumOfN.md)           | [💻 CPP](./1.Basics/2.Recursion/4.SumOfN.cpp)           |
+| 🧠 Basics  | 🔁 2. Recursion  | Factorial of N                      | [📄 MD](./1.Basics/2.Recursion/5.FactofN.md)          | [💻 CPP](./1.Basics/2.Recursion/5.FactofN.cpp)          |
+| 🧠 Basics  | 🔁 2. Recursion  | Reverse Array                       | [📄 MD](./1.Basics/2.Recursion/6.RevArray.md)         | [💻 CPP](./1.Basics/2.Recursion/6.RevArray.cpp)         |
+| 🧠 Basics  | 🔁 2. Recursion  | Palindrome String                   | [📄 MD](./1.Basics/2.Recursion/7.StringPalin.md)      | [💻 CPP](./1.Basics/2.Recursion/7.StringPalin.cpp)      |
+| 🧠 Basics  | 🔁 2. Recursion  | Fibonacci                           | [📄 MD](./1.Basics/2.Recursion/8.Fibonacci.md)        | [💻 CPP](./1.Basics/2.Recursion/8.Fibonacci.cpp)        |
+| 🧠 Basics  | 🔐 3. Hashing    | Frequency of Array Elements         | [📄 MD](./1.Basics/3.Hashing/1.FreqOfArrayEl.md)      | [💻 CPP](./1.Basics/3.Hashing/1.FreqOfArrayEl.cpp)      |
+| 🧠 Basics  | 🔐 3. Hashing    | Highest & Lowest Freq Element       | [📄 MD](./1.Basics/3.Hashing/2.HighLowFreqEl.md)      | [💻 CPP](./1.Basics/3.Hashing/2.HighLowFreqEl.cpp)      |
+| 🧠 Basics  | 🔐 3. Hashing    | First Unique Character              | [📄 MD](./1.Basics/3.Hashing/3.FirstUnique.md)        | [💻 CPP](./1.Basics/3.Hashing/3.FirstUnique.cpp)        |
+| 🧠 Basics  | 🔐 3. Hashing    | Find Difference                     | [📄 MD](./1.Basics/3.Hashing/4.FindDifference.md)     | [💻 CPP](./1.Basics/3.Hashing/4.FindDifference.cpp)     |
+| 🧠 Basics  | 🔐 3. Hashing    | Find Duplicates                     | [📄 MD](./1.Basics/3.Hashing/5.FindDuplicates.md)     | [💻 CPP](./1.Basics/3.Hashing/5.FindDuplicates.cpp)     |
+| 🧠 Basics  | 🔐 3. Hashing    | Is Anagram                          | [📄 MD](./1.Basics/3.Hashing/6.IsAnagram.md)          | [💻 CPP](./1.Basics/3.Hashing/6.IsAnagram.cpp)          |
+| 🔢 Sorting | 📑 1. Elementary | Selection Sort                      | [📄 MD](./2.Sorting/1.Sorting/1.SelectionSort.md)     | [💻 CPP](./2.Sorting/1.Sorting/1.SelectionSort.cpp)     |
+| 🔢 Sorting | 📑 1. Elementary | Bubble Sort                         | [📄 MD](./2.Sorting/1.Sorting/2.BubbleSort.md)        | [💻 CPP](./2.Sorting/1.Sorting/2.BubbleSort.cpp)        |
+| 🔢 Sorting | 📑 1. Elementary | Insertion Sort                      | [📄 MD](./2.Sorting/1.Sorting/3.InsertionSort.md)     | [💻 CPP](./2.Sorting/1.Sorting/3.InsertionSort.cpp)     |
+| 🔢 Sorting | 📈 2. Advanced   | Merge Sort                          | [📄 MD](./2.Sorting/2.Sorting/1.MergeSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/1.MergeSort.cpp)         |
+| 🔢 Sorting | 📈 2. Advanced   | Quick Sort                          | [📄 MD](./2.Sorting/2.Sorting/2.QuickSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/2.QuickSort.cpp)         |
+| ♠️ Arrays  | 📑 1. Easy       | Largest Element in the Array        | [📄 MD](./3.Arrays/1.Easy/1.LargestElement.md)        | [💻 CPP](./3.Arrays/1.Easy/1.LargestElement.cpp)        |
+| ♠️ Arrays  | 📑 1. Easy       | Second Largest Element in the Array | [📄 MD](./3.Arrays/1.Easy/2.SecondLargestElement.md)  | [💻 CPP](./3.Arrays/1.Easy/2.SecondLargestElement.cpp)  |
+| ♠️ Arrays  | 📑 1. Easy       | Is Array Sorted?                    | [📄 MD](./3.Arrays/1.Easy/3.IsArraySorted.md)         | [💻 CPP](./3.Arrays/1.Easy/3.IsArraySorted.cpp)         |
+| ♠️ Arrays  | 📑 1. Easy       | Remove Duplicates from Array        | [📄 MD](./3.Arrays/1.Easy/4.RemoveDuplicates.md)      | [💻 CPP](./3.Arrays/1.Easy/4.RemoveDuplicates.cpp)      |
+| ♠️ Arrays  | 📑 1. Easy       | Left Rotate by One                  | [📄 MD](./3.Arrays/1.Easy/5.LeftRotateArrayByOne.md)  | [💻 CPP](./3.Arrays/1.Easy/5.LeftRotateArrayByOne.cpp)  |
+| ♠️ Arrays  | 📑 1. Easy       | Rotate Array by K Places            | [📄 MD](./3.Arrays/1.Easy/6.RotateArrayByKPlaces.md)  | [💻 CPP](./3.Arrays/1.Easy/6.RotateArrayByKPlaces.cpp)  |
+| ♠️ Arrays  | 📑 1. Easy       | Shift Zeros to End                  | [📄 MD](./3.Arrays/1.Easy/7.ShiftZerosToEnd.md)       | [💻 CPP](./3.Arrays/1.Easy/7.ShiftZerosToEnd.cpp)       |
+| ♠️ Arrays  | 📑 1. Easy       | Linear Search                       | [📄 MD](./3.Arrays/1.Easy/8.LinearSearch.md)          | [💻 CPP](./3.Arrays/1.Easy/8.LinearSearch.cpp)          |
+| ♠️ Arrays  | 📑 1. Easy       | Find The Union                      | [📄 MD](./3.Arrays/1.Easy/9.1.FindTheUnion.md)        | [💻 CPP](./3.Arrays/1.Easy/9.1.FindTheUnion.cpp)        |
+| ♠️ Arrays  | 📑 1. Easy       | Find The Intersection               | [📄 MD](./3.Arrays/1.Easy/9.2.FindTheIntersection.md) | [💻 CPP](./3.Arrays/1.Easy/9.2.FindTheIntersection.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Find The Missing Number             | [📄 MD](./3.Arrays/1.Easy/10.FindTheMissingNumber.md) | [💻 CPP](./3.Arrays/1.Easy/10.FindTheMissingNumber.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Remove K From Array                 | [📄 MD](./3.Arrays/1.Easy/15.RemoveValueFromArray.md) | [💻 CPP](./3.Arrays/1.Easy/15.RemoveValueFromArray.cpp) |
 
 
+## Contact
 
-
----
+- LinkedIn - [arindalchar](www.linkedin.com/in/arindalchar)
+- Twitter - [arindal_17](www.twitter.com/arindal_17)
 
 ## 🌟 Star the Repo if You Find it Useful!
 
-> Let’s crack those interviews. One DSA problem at a time. 💪
-
----
 
