@@ -35,6 +35,7 @@ Each section is further broken into:
 | 🧠 Basics  | 📘 1. Maths      | Armstrong Number                    | [📄 MD](./1.Basics/1.Maths/5.Armstrong%20Number.md)   | –                                                       |
 | 🧠 Basics  | 📘 1. Maths      | All Divisors                        | [📄 MD](./1.Basics/1.Maths/6.AllDivisors.md)          | –                                                       |
 | 🧠 Basics  | 📘 1. Maths      | Check Prime                         | [📄 MD](./1.Basics/1.Maths/7.CheckPrime.md)           | –                                                       |
+| | | | | |
 | 🧠 Basics  | 🔁 2. Recursion  | Print N Names                       | [📄 MD](./1.Basics/2.Recursion/1.N-Names.md)          | [💻 CPP](./1.Basics/2.Recursion/1.N-Names.cpp)          |
 | 🧠 Basics  | 🔁 2. Recursion  | 1 to N                              | [📄 MD](./1.Basics/2.Recursion/2.1-N.md)              | [💻 CPP](./1.Basics/2.Recursion/2.1-N.cpp)              |
 | 🧠 Basics  | 🔁 2. Recursion  | N to 1                              | [📄 MD](./1.Basics/2.Recursion/3.N-1.md)              | [💻 CPP](./1.Basics/2.Recursion/3.N-1.cpp)              |
@@ -43,17 +44,21 @@ Each section is further broken into:
 | 🧠 Basics  | 🔁 2. Recursion  | Reverse Array                       | [📄 MD](./1.Basics/2.Recursion/6.RevArray.md)         | [💻 CPP](./1.Basics/2.Recursion/6.RevArray.cpp)         |
 | 🧠 Basics  | 🔁 2. Recursion  | Palindrome String                   | [📄 MD](./1.Basics/2.Recursion/7.StringPalin.md)      | [💻 CPP](./1.Basics/2.Recursion/7.StringPalin.cpp)      |
 | 🧠 Basics  | 🔁 2. Recursion  | Fibonacci                           | [📄 MD](./1.Basics/2.Recursion/8.Fibonacci.md)        | [💻 CPP](./1.Basics/2.Recursion/8.Fibonacci.cpp)        |
+| | | | | |
 | 🧠 Basics  | 🔐 3. Hashing    | Frequency of Array Elements         | [📄 MD](./1.Basics/3.Hashing/1.FreqOfArrayEl.md)      | [💻 CPP](./1.Basics/3.Hashing/1.FreqOfArrayEl.cpp)      |
 | 🧠 Basics  | 🔐 3. Hashing    | Highest & Lowest Freq Element       | [📄 MD](./1.Basics/3.Hashing/2.HighLowFreqEl.md)      | [💻 CPP](./1.Basics/3.Hashing/2.HighLowFreqEl.cpp)      |
 | 🧠 Basics  | 🔐 3. Hashing    | First Unique Character              | [📄 MD](./1.Basics/3.Hashing/3.FirstUnique.md)        | [💻 CPP](./1.Basics/3.Hashing/3.FirstUnique.cpp)        |
 | 🧠 Basics  | 🔐 3. Hashing    | Find Difference                     | [📄 MD](./1.Basics/3.Hashing/4.FindDifference.md)     | [💻 CPP](./1.Basics/3.Hashing/4.FindDifference.cpp)     |
 | 🧠 Basics  | 🔐 3. Hashing    | Find Duplicates                     | [📄 MD](./1.Basics/3.Hashing/5.FindDuplicates.md)     | [💻 CPP](./1.Basics/3.Hashing/5.FindDuplicates.cpp)     |
 | 🧠 Basics  | 🔐 3. Hashing    | Is Anagram                          | [📄 MD](./1.Basics/3.Hashing/6.IsAnagram.md)          | [💻 CPP](./1.Basics/3.Hashing/6.IsAnagram.cpp)          |
+| - | - | - | - | - |
 | 🔢 Sorting | 📑 1. Elementary | Selection Sort                      | [📄 MD](./2.Sorting/1.Sorting/1.SelectionSort.md)     | [💻 CPP](./2.Sorting/1.Sorting/1.SelectionSort.cpp)     |
 | 🔢 Sorting | 📑 1. Elementary | Bubble Sort                         | [📄 MD](./2.Sorting/1.Sorting/2.BubbleSort.md)        | [💻 CPP](./2.Sorting/1.Sorting/2.BubbleSort.cpp)        |
 | 🔢 Sorting | 📑 1. Elementary | Insertion Sort                      | [📄 MD](./2.Sorting/1.Sorting/3.InsertionSort.md)     | [💻 CPP](./2.Sorting/1.Sorting/3.InsertionSort.cpp)     |
+| | | | | |
 | 🔢 Sorting | 📈 2. Advanced   | Merge Sort                          | [📄 MD](./2.Sorting/2.Sorting/1.MergeSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/1.MergeSort.cpp)         |
 | 🔢 Sorting | 📈 2. Advanced   | Quick Sort                          | [📄 MD](./2.Sorting/2.Sorting/2.QuickSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/2.QuickSort.cpp)         |
+| - | - | - | - | - |
 | ♠️ Arrays  | 📑 1. Easy       | Largest Element in the Array        | [📄 MD](./3.Arrays/1.Easy/1.LargestElement.md)        | [💻 CPP](./3.Arrays/1.Easy/1.LargestElement.cpp)        |
 | ♠️ Arrays  | 📑 1. Easy       | Second Largest Element in the Array | [📄 MD](./3.Arrays/1.Easy/2.SecondLargestElement.md)  | [💻 CPP](./3.Arrays/1.Easy/2.SecondLargestElement.cpp)  |
 | ♠️ Arrays  | 📑 1. Easy       | Is Array Sorted?                    | [📄 MD](./3.Arrays/1.Easy/3.IsArraySorted.md)         | [💻 CPP](./3.Arrays/1.Easy/3.IsArraySorted.cpp)         |
@@ -65,7 +70,14 @@ Each section is further broken into:
 | ♠️ Arrays  | 📑 1. Easy       | Find The Union                      | [📄 MD](./3.Arrays/1.Easy/9.1.FindTheUnion.md)        | [💻 CPP](./3.Arrays/1.Easy/9.1.FindTheUnion.cpp)        |
 | ♠️ Arrays  | 📑 1. Easy       | Find The Intersection               | [📄 MD](./3.Arrays/1.Easy/9.2.FindTheIntersection.md) | [💻 CPP](./3.Arrays/1.Easy/9.2.FindTheIntersection.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | Find The Missing Number             | [📄 MD](./3.Arrays/1.Easy/10.FindTheMissingNumber.md) | [💻 CPP](./3.Arrays/1.Easy/10.FindTheMissingNumber.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Max Consecutive Ones                 | [📄 MD](./3.Arrays/1.Easy/11.MaxConsecutiveOnes.md) | [💻 CPP](./3.Arrays/1.Easy/11.MaxConsecutiveOnes.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Number that Appears Once                 | [📄 MD](./3.Arrays/1.Easy/12.NumberThatAppearsOnce.md) | [💻 CPP](./3.Arrays/1.Easy/12.NumberThatAppearsOnce.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Longest Subarray with Sum K                 | [📄 MD](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.md) | [💻 CPP](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | Remove K From Array                 | [📄 MD](./3.Arrays/1.Easy/15.RemoveValueFromArray.md) | [💻 CPP](./3.Arrays/1.Easy/15.RemoveValueFromArray.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Valid Palindrome                 | [📄 MD](./3.Arrays/1.Easy/16.ValidPalindrome.md) | [💻 CPP](./3.Arrays/1.Easy/16.ValidPalindrome.cpp) |
+| | | | | |
+| ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
+
 
 
 ## Contact
