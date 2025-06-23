@@ -10,14 +10,14 @@ Welcome to my comprehensive **DSA Interview Prep** repository! This project is a
 
 Each problem is thoughtfully categorized, solved in **C++**, and accompanied by detailed **Markdown explanations** to help you understand the logic, intuition, and edge cases. Whether you're brushing up on fundamentals or tackling advanced topics — this repo's got you.
 
-📌 **GitHub Repo**: [SDE-Grind](https://github.com/arindal1/SDE-Grind)
+📌 **Repo Sources**: [Striver's A2Z](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) , [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) , [Blind 75](https://leetcode.com/problem-list/oizxjoit/) , [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 ---
 
-## 📁 Project Structure
+## 📁 Repo Structure
 
 The repository is divided into major sections like. <br>
-Each section is further broken into:
+Each section is further broken into subsection and has:
 
 * 📄 `.md` files for explanation
 * 💻 `.cpp` files for code implementation
