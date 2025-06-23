@@ -77,7 +77,7 @@ Each section is further broken into:
 | ♠️ Arrays  | 📑 1. Easy       | Valid Palindrome                 | [📄 MD](./3.Arrays/1.Easy/16.ValidPalindrome.md) | [💻 CPP](./3.Arrays/1.Easy/16.ValidPalindrome.cpp) |
 | | | | | |
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
-
+| ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
 
 
 ## Contact
