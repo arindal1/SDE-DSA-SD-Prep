@@ -58,6 +58,8 @@ Each section is further broken into subsection and has:
 | | | | | |
 | 🔢 Sorting | 📈 2. Advanced   | Merge Sort                          | [📄 MD](./2.Sorting/2.Sorting/1.MergeSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/1.MergeSort.cpp)         |
 | 🔢 Sorting | 📈 2. Advanced   | Quick Sort                          | [📄 MD](./2.Sorting/2.Sorting/2.QuickSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/2.QuickSort.cpp)         |
+| 🔢 Sorting | 📈 2. Advanced   | Heap Sort                          | [📄 MD](./2.Sorting/2.Sorting/3.HeapSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/3.HeapSort.cpp)         |
+| 🔢 Sorting | 📈 2. Advanced   | Radix Sort                          | [📄 MD](./2.Sorting/2.Sorting/4.RadixSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/4.RadixSort.cpp)         |
 | - | - | - | - | - |
 | ♠️ Arrays  | 📑 1. Easy       | Largest Element in the Array        | [📄 MD](./3.Arrays/1.Easy/1.LargestElement.md)        | [💻 CPP](./3.Arrays/1.Easy/1.LargestElement.cpp)        |
 | ♠️ Arrays  | 📑 1. Easy       | Second Largest Element in the Array | [📄 MD](./3.Arrays/1.Easy/2.SecondLargestElement.md)  | [💻 CPP](./3.Arrays/1.Easy/2.SecondLargestElement.cpp)  |
@@ -79,6 +81,9 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
 
+<br>
+
+**NOTE :** I have used Generative AI to create most of the notes, so if in doubt always verify the information.
 
 ## Contact
 
