@@ -80,10 +80,14 @@ Each section is further broken into subsection and has:
 | | | | | |
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Majority Element [> n/2]                | [📄 MD](./3.Arrays/2.Medium/3.MajorityElement.md) | [💻 CPP](./3.Arrays/2.Medium/3.MajorityElement.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Maximum Sub-Array Sum                | [📄 MD](./3.Arrays/2.Medium/4.MaxSubarraySum.md) | [💻 CPP](./3.Arrays/2.Medium/4.MaxSubarraySum.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Best Time to Buy and Sell Stock                | [📄 MD](./3.Arrays/2.Medium/5.BuyAndSellStock.md) | [💻 CPP](./3.Arrays/2.Medium/5.BuyAndSellStock.cpp) |
+
 
 <br>
 
-**NOTE :** I have used Generative AI to create most of the notes, so if in doubt always verify the information.
+**NOTE :** I have used Generative AI to create most of the notes *(not the code)*, so if in doubt always verify the information.
 
 ## Contact
 
