@@ -83,11 +83,14 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Majority Element [> n/2]                | [📄 MD](./3.Arrays/2.Medium/3.MajorityElement.md) | [💻 CPP](./3.Arrays/2.Medium/3.MajorityElement.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Maximum Sub-Array Sum                | [📄 MD](./3.Arrays/2.Medium/4.MaxSubarraySum.md) | [💻 CPP](./3.Arrays/2.Medium/4.MaxSubarraySum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Best Time to Buy and Sell Stock                | [📄 MD](./3.Arrays/2.Medium/5.BuyAndSellStock.md) | [💻 CPP](./3.Arrays/2.Medium/5.BuyAndSellStock.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Rearrange Elements by Sign [Alternating]                | [📄 MD](./3.Arrays/2.Medium/6.RearrangeElementsBySign.md) | [💻 CPP](./3.Arrays/2.Medium/6.RearrangeElementsBySign.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Next Permutation                | [📄 MD](./3.Arrays/2.Medium/7.NextPermutation.md) | [💻 CPP](./3.Arrays/2.Medium/7.NextPermutation.cpp) |
+
+
 
 
 <br>
 
-**NOTE :** I have used Generative AI to create most of the notes *(not the code)*, so if in doubt always verify the information.
 
 ## Contact
 
