@@ -87,6 +87,7 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Next Permutation                | [📄 MD](./3.Arrays/2.Medium/7.NextPermutation.md) | [💻 CPP](./3.Arrays/2.Medium/7.NextPermutation.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Leaders in an Array                | [📄 MD](./3.Arrays/2.Medium/8.LeadersInAnArray.md) | [💻 CPP](./3.Arrays/2.Medium/8.LeadersInAnArray.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Longest Consecutive Sequence                | [📄 MD](./3.Arrays/2.Medium/9.LongestConsecutiveSequence.md) | [💻 CPP](./3.Arrays/2.Medium/9.LongestConsecutiveSequence.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Set Matrix Zeros                | [📄 MD](./3.Arrays/2.Medium/10.SetMatrixToZeros.md) | [💻 CPP](./3.Arrays/2.Medium/10.SetMatrixToZeros.cpp) |
 
 
 
