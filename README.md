@@ -92,8 +92,12 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Matrix Spiral Traversal                | [📄 MD](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.md) | [💻 CPP](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Group Anagrams                | [📄 MD](./3.Arrays/2.Medium/15.GroupAnagrams.md) | [💻 CPP](./3.Arrays/2.Medium/15.GroupAnagrams.cpp) |
 | | | | | |
-| ♠️ Arrays  | 📜 2. Hard       | Matrix Spiral Traversal                | [📄 MD](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.md) | [💻 CPP](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.cpp) |
-| ♠️ Arrays  | 📜 2. Hard       | Majority Element II [> n/3]                | [📄 MD](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.md) | [💻 CPP](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Pascal's Triangle                | [📄 MD](./3.Arrays/3.Hard/1.PascalsTriangle.md) | [💻 CPP](./3.Arrays/3.Hard/1.PascalsTriangle.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Majority Element II [> n/3]                | [📄 MD](./3.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./3.Arrays/3.Hard/2.MajorityElementII.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Three Sum                | [📄 MD](./3.Arrays/3.Hard/3.ThreeSum.md) | [💻 CPP](./3.Arrays/3.Hard/3.ThreeSum.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Four Sum                | [📄 MD](./3.Arrays/3.Hard/4.FourSum.md) | [💻 CPP](./3.Arrays/3.Hard/4.FourSum.cpp) |
+
+
 
 
 <br>
