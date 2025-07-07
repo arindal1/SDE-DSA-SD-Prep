@@ -96,6 +96,22 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📜 2. Hard       | Majority Element II [> n/3]                | [📄 MD](./3.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./3.Arrays/3.Hard/2.MajorityElementII.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Three Sum                | [📄 MD](./3.Arrays/3.Hard/3.ThreeSum.md) | [💻 CPP](./3.Arrays/3.Hard/3.ThreeSum.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Four Sum                | [📄 MD](./3.Arrays/3.Hard/4.FourSum.md) | [💻 CPP](./3.Arrays/3.Hard/4.FourSum.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Count Subarrays with Xor K               | [📄 MD](./3.Arrays/3.Hard/5.CountSubarraysWithXorK.md) | [💻 CPP](./3.Arrays/3.Hard/5.CountSubarraysWithXorK.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Merge Overlapping Intervals                | [📄 MD](./3.Arrays/3.Hard/6.MergeOverlappingIntervals.md) | [💻 CPP](./3.Arrays/3.Hard/6.MergeOverlappingIntervals.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Merge Sorted Arrays                | [📄 MD](./3.Arrays/3.Hard/7.MergeSortedArrays.md) | [💻 CPP](./3.Arrays/3.Hard/7.MergeSortedArrays.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Find Repeating and Missing Numbers                | [📄 MD](./3.Arrays/3.Hard/8.FindRepeatingAndMissingNumbers.md) | [💻 CPP](./3.Arrays/3.Hard/8.FindRepeatingAndMissingNumbers.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Count Inversions                | [📄 MD](./3.Arrays/3.Hard/9.CountInversions.md) | [💻 CPP](./3.Arrays/3.Hard/9.CountInversions.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Reverse Pairs                | [📄 MD](./3.Arrays/3.Hard/10.ReversePairs.md) | [💻 CPP](./3.Arrays/3.Hard/10.ReversePairs.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Maximum Product Subarray                | [📄 MD](./3.Arrays/3.Hard/11.MaximumProductSubarray.md) | [💻 CPP](./3.Arrays/3.Hard/11.MaximumProductSubarray.cpp) |
+| - | - | - | - | - |
+| 🔍 Binary Search | ❗ 1. BS on 1D       | XXX                | [📄 MD](./4.BinarySearch/1.BS_on_1D/)   | [💻 CPP](./4.BinarySearch/1.BS_on_1D/)   |
+
+| | | | | |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | XXX                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
+
+| | | | | |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | XXX                | [📄 MD](./4.BinarySearch/3.BS_on_2D/)   | [💻 CPP](./4.BinarySearch/3.BS_on_2D/)   |
+
 
 
 
