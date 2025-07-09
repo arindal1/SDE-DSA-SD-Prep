@@ -76,7 +76,7 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📑 1. Easy       | Number that Appears Once                 | [📄 MD](./3.Arrays/1.Easy/12.NumberThatAppearsOnce.md) | [💻 CPP](./3.Arrays/1.Easy/12.NumberThatAppearsOnce.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | Longest Subarray with Sum K                 | [📄 MD](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.md) | [💻 CPP](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | Remove K From Array                 | [📄 MD](./3.Arrays/1.Easy/15.RemoveValueFromArray.md) | [💻 CPP](./3.Arrays/1.Easy/15.RemoveValueFromArray.cpp) |
-| ♠️ Arrays  | 📑 1. Easy       | Valid Palindrome                 | [📄 MD](./3.Arrays/1.Easy/16.ValidPalindrome.md) | [💻 CPP](./3.Arrays/1.Easy/16.ValidPalindrome.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | One Plus                 | [📄 MD](./3.Arrays/1.Easy/14.OnePlus.md) | [💻 CPP](./3.Arrays/1.Easy/14.OnePlus.cpp) |
 | | | | | |
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
@@ -104,13 +104,13 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📜 2. Hard       | Reverse Pairs                | [📄 MD](./3.Arrays/3.Hard/10.ReversePairs.md) | [💻 CPP](./3.Arrays/3.Hard/10.ReversePairs.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Maximum Product Subarray                | [📄 MD](./3.Arrays/3.Hard/11.MaximumProductSubarray.md) | [💻 CPP](./3.Arrays/3.Hard/11.MaximumProductSubarray.cpp) |
 | - | - | - | - | - |
-| 🔍 Binary Search | ❗ 1. BS on 1D       | XXX                | [📄 MD](./4.BinarySearch/1.BS_on_1D/)   | [💻 CPP](./4.BinarySearch/1.BS_on_1D/)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp_)   |
 
 | | | | | |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | XXX                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
 
 | | | | | |
-| 🔍 Binary Search | ⁉️ 3. BS on 2D       | XXX                | [📄 MD](./4.BinarySearch/3.BS_on_2D/)   | [💻 CPP](./4.BinarySearch/3.BS_on_2D/)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp_)   |
 
 
 
