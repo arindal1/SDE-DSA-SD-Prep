@@ -77,6 +77,9 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📑 1. Easy       | Longest Subarray with Sum K                 | [📄 MD](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.md) | [💻 CPP](./3.Arrays/1.Easy/13.LongestSubarrayWithSumK.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | Remove K From Array                 | [📄 MD](./3.Arrays/1.Easy/15.RemoveValueFromArray.md) | [💻 CPP](./3.Arrays/1.Easy/15.RemoveValueFromArray.cpp) |
 | ♠️ Arrays  | 📑 1. Easy       | One Plus                 | [📄 MD](./3.Arrays/1.Easy/14.OnePlus.md) | [💻 CPP](./3.Arrays/1.Easy/14.OnePlus.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Remove Value From Array                 | [📄 MD](./3.Arrays/1.Easy/15.RemoveValueFromArray.md) | [💻 CPP](./3.Arrays/1.Easy/15.RemoveValueFromArray.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Container With Most Water                 | [📄 MD](./3.Arrays/1.Easy/16.ContainerWithMostWater.md) | [💻 CPP](./3.Arrays/1.Easy/16.ContainerWithMostWater.cpp) |
+| ♠️ Arrays  | 📑 1. Easy       | Move Zeros To End                 | [📄 MD](./3.Arrays/1.Easy/17.MoveZerosToEnd.md) | [💻 CPP](./3.Arrays/1.Easy/17.MoveZerosToEnd.cpp) |
 | | | | | |
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
@@ -90,7 +93,10 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Set Matrix Zeros                | [📄 MD](./3.Arrays/2.Medium/10.SetMatrixToZeros.md) | [💻 CPP](./3.Arrays/2.Medium/10.SetMatrixToZeros.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Rotate Matrix By 90 Degrees                | [📄 MD](./3.Arrays/2.Medium/11.RotateMatrixBy90.md) | [💻 CPP](./3.Arrays/2.Medium/11.RotateMatrixBy90.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Matrix Spiral Traversal                | [📄 MD](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.md) | [💻 CPP](./3.Arrays/2.Medium/12.MatrixSpiralTraversal.cpp) |
-| ♠️ Arrays  | 📃 2. Medium       | Group Anagrams                | [📄 MD](./3.Arrays/2.Medium/15.GroupAnagrams.md) | [💻 CPP](./3.Arrays/2.Medium/15.GroupAnagrams.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Sub Arrays With Sum K                | [📄 MD](./3.Arrays/2.Medium/13.SubArraysWithSumK.md) | [💻 CPP](./3.Arrays/2.Medium/13.SubArraysWithSumK.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Partition Labels                | [📄 MD](./3.Arrays/2.Medium/15.PartitionLabels.md) | [💻 CPP](./3.Arrays/2.Medium/15.PartitionLabels.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Sorted Array Squares                | [📄 MD](./3.Arrays/2.Medium/16.SortedArraySquares.md) | [💻 CPP](./3.Arrays/2.Medium/16.SortedArraySquares.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Boats To Save People                | [📄 MD](./3.Arrays/2.Medium/17.BoatsToSavePeople.md) | [💻 CPP](./3.Arrays/2.Medium/17.BoatsToSavePeople.cpp) |
 | | | | | |
 | ♠️ Arrays  | 📜 2. Hard       | Pascal's Triangle                | [📄 MD](./3.Arrays/3.Hard/1.PascalsTriangle.md) | [💻 CPP](./3.Arrays/3.Hard/1.PascalsTriangle.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Majority Element II [> n/3]                | [📄 MD](./3.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./3.Arrays/3.Hard/2.MajorityElementII.cpp) |
@@ -104,14 +110,18 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📜 2. Hard       | Reverse Pairs                | [📄 MD](./3.Arrays/3.Hard/10.ReversePairs.md) | [💻 CPP](./3.Arrays/3.Hard/10.ReversePairs.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Maximum Product Subarray                | [📄 MD](./3.Arrays/3.Hard/11.MaximumProductSubarray.md) | [💻 CPP](./3.Arrays/3.Hard/11.MaximumProductSubarray.cpp) |
 | - | - | - | - | - |
-| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp_)   |
-
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Binary Search on Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | First and Last Occurance in a Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.cpp)   |
 | | | | | |
-| 🔍 Binary Search | ‼️ 2. BS on Answers  | XXX                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
-
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | ---                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
 | | | | | |
-| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp_)   |
-
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | ---                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp)   |
+| - | - | - | - | - |
+| 🧵 Strings | 🐕 Easy      | Longest Prefix Sum                | [📄 MD](./5.Strings/1.Easy/1.LongestPrefixSum.md)   | [💻 CPP](./5.Strings/1.Easy/1.LongestPrefixSum.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/16.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/16.ValidPalindrome.cpp)   |
+| | | | | |
+| 🧵 Strings | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/15.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/15.GroupAnagrams.cpp)   |
 
 
 
