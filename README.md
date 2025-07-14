@@ -113,6 +113,8 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Binary Search on Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | First and Last Occurance in a Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array I              | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array II              | [📄 MD](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.cpp)   |
 | | | | | |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | ---                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
 | | | | | |
