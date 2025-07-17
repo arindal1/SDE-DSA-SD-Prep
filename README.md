@@ -115,8 +115,9 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | First and Last Occurance in a Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array I              | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array II              | [📄 MD](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Find Peak Element              | [📄 MD](./4.Binary_Search/1.BSon1D/8.FindPeakElement.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/8.FindPeakElement.cpp)   |
 | | | | | |
-| 🔍 Binary Search | ‼️ 2. BS on Answers  | ---                | [📄 MD](./4.BinarySearch/2.BS_on_Answers/) | [💻 CPP](./4.BinarySearch/2.BS_on_Answers/) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Koko Eating Bananas                | [📄 MD](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.cpp) |
 | | | | | |
 | 🔍 Binary Search | ⁉️ 3. BS on 2D       | ---                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp)   |
 | - | - | - | - | - |
