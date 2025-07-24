@@ -118,6 +118,15 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Find Peak Element              | [📄 MD](./4.Binary_Search/1.BSon1D/8.FindPeakElement.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/8.FindPeakElement.cpp)   |
 | | | | | |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Koko Eating Bananas                | [📄 MD](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Days to make M Bouquets                | [📄 MD](./4.Binary_Search/2.BSonAnswers/2.DaysToMakeBouquets.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/2.DaysToMakeBouquets.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Smallest Divisor within the Threshold                | [📄 MD](./4.Binary_Search/2.BSonAnswers/3.SmallestDivisorInThreshold.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/3.SmallestDivisorInThreshold.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Capacity to Ship within D Days                | [📄 MD](./4.Binary_Search/2.BSonAnswers/4.CapacityToShipWithinDDays.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/4.CapacityToShipWithinDDays.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Find the K-th Missing Element                | [📄 MD](./4.Binary_Search/2.BSonAnswers/5.FindKthMissingElement.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/5.FindKthMissingElement.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Aggressive Cows               | [📄 MD](./4.Binary_Search/2.BSonAnswers/6.AggressiveCows.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/6.AggressiveCows.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Book Allocation                | [📄 MD](./4.Binary_Search/2.BSonAnswers/7.BookAllocation.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/7.BookAllocation.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Split Array to Largest Sum                | [📄 MD](./4.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Minimize Max Distance between Gas Stations                | [📄 MD](./4.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Koko Eating Bananas                | [📄 MD](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.cpp) |
 | | | | | |
 | 🔍 Binary Search | ⁉️ 3. BS on 2D       | ---                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp)   |
 | - | - | - | - | - |
