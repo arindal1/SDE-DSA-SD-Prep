@@ -126,9 +126,11 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Book Allocation                | [📄 MD](./4.Binary_Search/2.BSonAnswers/7.BookAllocation.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/7.BookAllocation.cpp) |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Split Array to Largest Sum                | [📄 MD](./4.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.cpp) |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Minimize Max Distance between Gas Stations                | [📄 MD](./4.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.cpp) |
-| 🔍 Binary Search | ‼️ 2. BS on Answers  | Koko Eating Bananas                | [📄 MD](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.cpp) |
+| 🔍 Binary Search | ‼️ 2. BS on Answers  | Median of Two Sorted Arrays                | [📄 MD](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.cpp) |
 | | | | | |
-| 🔍 Binary Search | ⁉️ 3. BS on 2D       | ---                | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInsertPosition.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Row with Maximum 1s                | [📄 MD](./4.Binary_Search/3.BSon2D/1.RowWithMaximum1s.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/1.RowWithMaximum1s.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix I                | [📄 MD](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix II                | [📄 MD](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.cpp)   |
 | - | - | - | - | - |
 | 🧵 Strings | 🐕 Easy      | Longest Prefix Sum                | [📄 MD](./5.Strings/1.Easy/1.LongestPrefixSum.md)   | [💻 CPP](./5.Strings/1.Easy/1.LongestPrefixSum.cpp)   |
 | 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/16.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/16.ValidPalindrome.cpp)   |
