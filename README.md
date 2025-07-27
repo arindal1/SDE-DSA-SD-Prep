@@ -83,7 +83,7 @@ Each section is further broken into subsection and has:
 | | | | | |
 | ♠️ Arrays  | 📃 2. Medium       | Two Sum                 | [📄 MD](./3.Arrays/2.Medium/1.2Sum.md) | [💻 CPP](./3.Arrays/2.Medium/1.2Sum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Sort an Array of 0s, 1s & 2s                | [📄 MD](./3.Arrays/2.Medium/2.SortArrayOf012.md) | [💻 CPP](./3.Arrays/2.Medium/2.SortArrayOf012.cpp) |
-| ♠️ Arrays  | 📃 2. Medium       | Majority Element [> n/2]                | [📄 MD](./3.Arrays/2.Medium/3.MajorityElement.md) | [💻 CPP](./3.Arrays/2.Medium/3.MajorityElement.cpp) |
+| ♠️ Arrays  | 📃 2. Medium       | Majority Element - I [> n/2]                | [📄 MD](./3.Arrays/2.Medium/3.MajorityElement.md) | [💻 CPP](./3.Arrays/2.Medium/3.MajorityElement.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Maximum Sub-Array Sum                | [📄 MD](./3.Arrays/2.Medium/4.MaxSubarraySum.md) | [💻 CPP](./3.Arrays/2.Medium/4.MaxSubarraySum.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Best Time to Buy and Sell Stock                | [📄 MD](./3.Arrays/2.Medium/5.BuyAndSellStock.md) | [💻 CPP](./3.Arrays/2.Medium/5.BuyAndSellStock.cpp) |
 | ♠️ Arrays  | 📃 2. Medium       | Rearrange Elements by Sign [Alternating]                | [📄 MD](./3.Arrays/2.Medium/6.RearrangeElementsBySign.md) | [💻 CPP](./3.Arrays/2.Medium/6.RearrangeElementsBySign.cpp) |
@@ -99,7 +99,7 @@ Each section is further broken into subsection and has:
 | ♠️ Arrays  | 📃 2. Medium       | Boats To Save People                | [📄 MD](./3.Arrays/2.Medium/17.BoatsToSavePeople.md) | [💻 CPP](./3.Arrays/2.Medium/17.BoatsToSavePeople.cpp) |
 | | | | | |
 | ♠️ Arrays  | 📜 2. Hard       | Pascal's Triangle                | [📄 MD](./3.Arrays/3.Hard/1.PascalsTriangle.md) | [💻 CPP](./3.Arrays/3.Hard/1.PascalsTriangle.cpp) |
-| ♠️ Arrays  | 📜 2. Hard       | Majority Element II [> n/3]                | [📄 MD](./3.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./3.Arrays/3.Hard/2.MajorityElementII.cpp) |
+| ♠️ Arrays  | 📜 2. Hard       | Majority Element - II [> n/3]                | [📄 MD](./3.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./3.Arrays/3.Hard/2.MajorityElementII.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Three Sum                | [📄 MD](./3.Arrays/3.Hard/3.ThreeSum.md) | [💻 CPP](./3.Arrays/3.Hard/3.ThreeSum.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Four Sum                | [📄 MD](./3.Arrays/3.Hard/4.FourSum.md) | [💻 CPP](./3.Arrays/3.Hard/4.FourSum.cpp) |
 | ♠️ Arrays  | 📜 2. Hard       | Count Subarrays with Xor K               | [📄 MD](./3.Arrays/3.Hard/5.CountSubarraysWithXorK.md) | [💻 CPP](./3.Arrays/3.Hard/5.CountSubarraysWithXorK.cpp) |
@@ -113,9 +113,9 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Binary Search on Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/1.BinarySearchOnASortedArray.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search Insert Position                | [📄 MD](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/2.SearchInsertPosition.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 1D       | First and Last Occurance in a Sorted Array                | [📄 MD](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/3.FirstAndLastOccurance.cpp)   |
-| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array I              | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.cpp)   |
-| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array II              | [📄 MD](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.cpp)   |
-| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Find Peak Element              | [📄 MD](./4.Binary_Search/1.BSon1D/8.FindPeakElement.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/8.FindPeakElement.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array - I              | [📄 MD](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/4.SearchInRotatedSortedArrayI.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Search in a Rotated Sorted Array - II              | [📄 MD](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/5.SearchInRotatedSortedArrayII.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 1D       | Find Peak Element - I              | [📄 MD](./4.Binary_Search/1.BSon1D/8.FindPeakElement.md)   | [💻 CPP](./4.Binary_Search/1.BSon1D/8.FindPeakElement.cpp)   |
 | | | | | |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Koko Eating Bananas                | [📄 MD](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/1.KokoEatingBananas.cpp) |
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Days to make M Bouquets                | [📄 MD](./4.Binary_Search/2.BSonAnswers/2.DaysToMakeBouquets.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/2.DaysToMakeBouquets.cpp) |
@@ -129,8 +129,9 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ‼️ 2. BS on Answers  | Median of Two Sorted Arrays                | [📄 MD](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.md) | [💻 CPP](./4.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.cpp) |
 | | | | | |
 | 🔍 Binary Search | ⁉️ 3. BS on 2D       | Row with Maximum 1s                | [📄 MD](./4.Binary_Search/3.BSon2D/1.RowWithMaximum1s.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/1.RowWithMaximum1s.cpp)   |
-| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix I                | [📄 MD](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.cpp)   |
-| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix II                | [📄 MD](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix - I                | [📄 MD](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix - II                | [📄 MD](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.cpp)   |
+| 🔍 Binary Search | ⁉️ 3. BS on 2D       | Find Peak Element - II                | [📄 MD](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.cpp)   |
 | - | - | - | - | - |
 | 🧵 Strings | 🐕 Easy      | Longest Prefix Sum                | [📄 MD](./5.Strings/1.Easy/1.LongestPrefixSum.md)   | [💻 CPP](./5.Strings/1.Easy/1.LongestPrefixSum.cpp)   |
 | 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/16.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/16.ValidPalindrome.cpp)   |
