@@ -137,10 +137,17 @@ Each section is further broken into subsection and has:
 | 🔍 Binary Search | ⁉️ 3. BS on 2D       | Search in a 2D Matrix - II                | [📄 MD](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.cpp)   |
 | 🔍 Binary Search | ⁉️ 3. BS on 2D       | Find Peak Element - II                | [📄 MD](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.cpp)   |
 | - | - | - | - | - |
-| 🧵 Strings | 🐕 Easy      | Longest Prefix Sum                | [📄 MD](./5.Strings/1.Easy/1.LongestPrefixSum.md)   | [💻 CPP](./5.Strings/1.Easy/1.LongestPrefixSum.cpp)   |
-| 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/16.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/16.ValidPalindrome.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Remove Outer Parenthesis                | [📄 MD](./5.Strings/1.Easy/1.RemoveOuterParanthesis.md)   | [💻 CPP](./5.Strings/1.Easy/1.RemoveOuterParanthesis.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Reverse Words in a String               | [📄 MD](./5.Strings/1.Easy/2.ReverseWords.md)   | [💻 CPP](./5.Strings/1.Easy/2.ReverseWords.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Largest Odd Number                | [📄 MD](./5.Strings/1.Easy/3.LargestOddNumber.md)   | [💻 CPP](./5.Strings/1.Easy/3.LargestOddNumber.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Longest Common Prefix                | [📄 MD](./5.Strings/1.Easy/4.LongestCommonPrefix.md)   | [💻 CPP](./5.Strings/1.Easy/4.LongestCommonPrefix.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Isomorphic Strings               | [📄 MD](./5.Strings/1.Easy/5.IsomorphicStrings.md)   | [💻 CPP](./5.Strings/1.Easy/5.IsomorphicStrings.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Rotate String                | [📄 MD](./5.Strings/1.Easy/6.RotateString.md)   | [💻 CPP](./5.Strings/1.Easy/6.RotateString.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Is Anagram ?                | [📄 MD](./5.Strings/1.Easy/7.IsAnagram.md)   | [💻 CPP](./5.Strings/1.Easy/7.IsAnagram.cpp)   |
+| 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/8.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/8.ValidPalindrome.cpp)   |
 | | | | | |
-| 🧵 Strings | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/15.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/15.GroupAnagrams.cpp)   |
+| 🧵 Strings | 🐈 Medium       | Frequency Sort                | [📄 MD](./5.Strings/2.Medium/1.FrequencySort.md)   | [💻 CPP](./5.Strings/2.Medium/1.FrequencySort.cpp)   |
+| 🧵 Strings | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
 
 
