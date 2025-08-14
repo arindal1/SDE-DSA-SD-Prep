@@ -147,6 +147,9 @@ Each section is further broken into subsection and has:
 | 🧵 Strings | 🐕 Easy      | Valid Palindrome                | [📄 MD](./5.Strings/1.Easy/8.ValidPalindrome.md)   | [💻 CPP](./5.Strings/1.Easy/8.ValidPalindrome.cpp)   |
 | | | | | |
 | 🧵 Strings | 🐈 Medium       | Frequency Sort                | [📄 MD](./5.Strings/2.Medium/1.FrequencySort.md)   | [💻 CPP](./5.Strings/2.Medium/1.FrequencySort.cpp)   |
+| 🧵 Strings | 🐈 Medium       | Max Depth of Parenthesis                | [📄 MD](./5.Strings/2.Medium/2.MaxDepthOfParenthesis.md)   | [💻 CPP](./5.Strings/2.Medium/2.MaxDepthOfParenthesis.cpp)   |
+| 🧵 Strings | 🐈 Medium       | Roman to Integer                | [📄 MD](./5.Strings/2.Medium/3.RomanToInteger.md)   | [💻 CPP](./5.Strings/2.Medium/3.RomanToInteger.cpp)   |
+| 🧵 Strings | 🐈 Medium       | String to Integer (ATOI)                | [📄 MD](./5.Strings/2.Medium/4.ATOI.md)   | [💻 CPP](./5.Strings/2.Medium/4.ATOI.cpp)   |
 | 🧵 Strings | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
 
