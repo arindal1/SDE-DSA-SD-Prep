@@ -1,26 +1,44 @@
-# 🚀 DSA Interview Prep for SDE Roles (Product-Based Companies & Startups)
+<div style="text-align:center; margin: 16px 0;">
+  <h1 style="margin: 0 0 12px; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;">
+    DSA / System Design Prep 🚀
+  </h1>
 
-[![Repo Stars](https://img.shields.io/github/stars/arindal1/SDE-Grind?style=for-the-badge)](https://github.com/arindal1/SDE-Grind/stargazers)
-[![Forks](https://img.shields.io/github/forks/arindal1/SDE-Grind?style=for-the-badge)](https://github.com/arindal1/SDE-Grind/forks)
-[![Last Commit](https://img.shields.io/github/last-commit/arindal1/SDE-Grind?style=for-the-badge)](https://github.com/arindal1/SDE-Grind/commits/main)
+  <div style="display:inline-flex; gap:8px; flex-wrap:wrap; align-items:center; justify-content:center;">
+    <a href="https://github.com/arindal1/SDE-DSA-SD-Prep/stargazers" target="_blank" rel="noopener">
+      <img alt="Repo Stars"
+           src="https://img.shields.io/github/stars/arindal1/SDE-DSA-SD-Prep?style=flat-square">
+    </a>
+    <a href="https://github.com/arindal1/SDE-DSA-SD-Prep/forks" target="_blank" rel="noopener">
+      <img alt="Forks"
+           src="https://img.shields.io/github/forks/arindal1/SDE-DSA-SD-Prep?style=flat-square">
+    </a>
+    <a href="https://github.com/arindal1/SDE-DSA-SD-Prep/commits/main" target="_blank" rel="noopener">
+      <img alt="Last Commit"
+           src="https://img.shields.io/github/last-commit/arindal1/SDE-DSA-SD-Prep?style=flat-square">
+    </a>
+    <a href="https://www.linkedin.com/in/arindalchar/" onclick="return false;">
+      <img alt="Made with Love"
+           src="https://img.shields.io/badge/Made%20with-%F0%9F%96%A4-red?style=flat-square">
+    </a>
+  </div>
+</div>
 
----
 
-Welcome to my comprehensive **DSA Interview Prep** repository! This project is a one-stop hub that covers **A-Z of Data Structures and Algorithms**, crafted specifically for mastering technical interviews at **product-based companies** and **high-growth startups**.
+
+
+
+Welcome to my comprehensive **DSA Interview Prep** repository! This project is a one-stop hub that covers **A-Z of Data Structures and Algorithms**, **System Design** and **CS Core** crafted specifically for mastering technical interviews at **product-based companies** and **high-growth startups**.
 
 Each problem is thoughtfully categorized, solved in **C++**, and accompanied by detailed **Markdown explanations** to help you understand the logic, intuition, and edge cases. Whether you're brushing up on fundamentals or tackling advanced topics — this repo's got you.
 
-📌 **Repo Sources**: [Striver's A2Z](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) , [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) , [Blind 75](https://leetcode.com/problem-list/oizxjoit/) , [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+📌 **DSA Sources**: [Striver's A2Z](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) , [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) , [Blind 75](https://leetcode.com/problem-list/oizxjoit/) , [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) <br>
+📌 **System Design Sources**: [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ---
 
-## 📁 Repo Structure
+## 📁 DSA Structure
 
-The repository is divided into major sections like. <br>
-Each section is further broken into subsection and has:
-
-* 📄 `.md` files for explanation
-* 💻 `.cpp` files for code implementation
+The repository is divided into major sections like. Each section is further broken into subsection and has: [ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
 
 ---
 ---
@@ -171,10 +189,11 @@ Each section is further broken into subsection and has:
 | 🐈 Medium       | String to Integer (ATOI)                | [📄 MD](./5.Strings/2.Medium/4.ATOI.md)   | [💻 CPP](./5.Strings/2.Medium/4.ATOI.cpp)   |
 | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
-
-
-
 <br>
+
+## 📁 System Design Structure
+
+[ IN PROGRESS ]
 
 
 ## Contact
