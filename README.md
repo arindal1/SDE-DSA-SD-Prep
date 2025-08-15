@@ -1,7 +1,5 @@
-<div style="text-align:center; margin: 16px 0;">
-  <h1 style="margin: 0 0 12px; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;">
-    DSA / System Design Prep 🚀
-  </h1>
+<div align="center" margin= "16px 0">
+  <img src="public/images/sdep.png">
 
   <div style="display:inline-flex; gap:8px; flex-wrap:wrap; align-items:center; justify-content:center;">
     <a href="https://github.com/arindal1/SDE-DSA-SD-Prep/stargazers" target="_blank" rel="noopener">
@@ -23,9 +21,7 @@
   </div>
 </div>
 
-
-
-
+<br>
 
 Welcome to my comprehensive **DSA Interview Prep** repository! This project is a one-stop hub that covers **A-Z of Data Structures and Algorithms**, **System Design** and **CS Core** crafted specifically for mastering technical interviews at **product-based companies** and **high-growth startups**.
 
