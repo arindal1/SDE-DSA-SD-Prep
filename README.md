@@ -23,7 +23,7 @@
 
 <br>
 
-Welcome to my comprehensive **DSA Interview Prep** repository! This project is a one-stop hub that covers **A-Z of Data Structures and Algorithms**, **System Design** and **CS Core** crafted specifically for mastering technical interviews at **product-based companies** and **high-growth startups**.
+Welcome to my comprehensive **SDE Interview Prep** repository! This repo is a one-stop hub that covers **A-Z of Data Structures and Algorithms**, **System Design** and **CS Core** crafted specifically for mastering technical interviews at **product-based companies** and **high-growth startups**.
 
 Each problem is thoughtfully categorized, solved in **C++**, and accompanied by detailed **Markdown explanations** to help you understand the logic, intuition, and edge cases. Whether you're brushing up on fundamentals or tackling advanced topics — this repo's got you.
 
@@ -34,7 +34,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ## 📁 DSA Structure
 
-The repository is divided into major sections like. Each section is further broken into subsection and has: [ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
+[ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
 
 ---
 ---
