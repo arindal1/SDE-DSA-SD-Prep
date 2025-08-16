@@ -171,7 +171,6 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 🐕 Easy      | Remove Outer Parenthesis                | [📄 MD](./5.Strings/1.Easy/1.RemoveOuterParanthesis.md)   | [💻 CPP](./5.Strings/1.Easy/1.RemoveOuterParanthesis.cpp)   |
-| 🐕 Easy      | Reverse Words in a String               | [📄 MD](./5.Strings/1.Easy/2.ReverseWords.md)   | [💻 CPP](./5.Strings/1.Easy/2.ReverseWords.cpp)   |
 | 🐕 Easy      | Largest Odd Number                | [📄 MD](./5.Strings/1.Easy/3.LargestOddNumber.md)   | [💻 CPP](./5.Strings/1.Easy/3.LargestOddNumber.cpp)   |
 | 🐕 Easy      | Longest Common Prefix                | [📄 MD](./5.Strings/1.Easy/4.LongestCommonPrefix.md)   | [💻 CPP](./5.Strings/1.Easy/4.LongestCommonPrefix.cpp)   |
 | 🐕 Easy      | Isomorphic Strings               | [📄 MD](./5.Strings/1.Easy/5.IsomorphicStrings.md)   | [💻 CPP](./5.Strings/1.Easy/5.IsomorphicStrings.cpp)   |
@@ -185,6 +184,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🐈 Medium       | String to Integer (ATOI)                | [📄 MD](./5.Strings/2.Medium/4.ATOI.md)   | [💻 CPP](./5.Strings/2.Medium/4.ATOI.cpp)   |
 | 🐈 Medium       | Longest Palindrome Substrings                | [📄 MD](./5.Strings/2.Medium/5.LongestPalindromeSubstring.md)   | [💻 CPP](./5.Strings/2.Medium/5.LongestPalindromeSubstring.cpp)   |
 | 🐈 Medium       | Sum of Beauty of Substrings                | [📄 MD](./5.Strings/2.Medium/6.SumOfBeautyOfSubstrings.md)   | [💻 CPP](./5.Strings/2.Medium/6.SumOfBeautyOfSubstrings.cpp)   |
+| 🐈 Medium     | Reverse Words in a String               | [📄 MD](./5.Strings/2.Medium/7.ReverseWords.md)   | [💻 CPP](./5.Strings/2.Medium/7.ReverseWords.cpp)   |
 | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
 <br>
