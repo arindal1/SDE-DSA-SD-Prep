@@ -183,6 +183,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🐈 Medium       | Max Depth of Parenthesis                | [📄 MD](./5.Strings/2.Medium/2.MaxDepthOfParenthesis.md)   | [💻 CPP](./5.Strings/2.Medium/2.MaxDepthOfParenthesis.cpp)   |
 | 🐈 Medium       | Roman to Integer                | [📄 MD](./5.Strings/2.Medium/3.RomanToInteger.md)   | [💻 CPP](./5.Strings/2.Medium/3.RomanToInteger.cpp)   |
 | 🐈 Medium       | String to Integer (ATOI)                | [📄 MD](./5.Strings/2.Medium/4.ATOI.md)   | [💻 CPP](./5.Strings/2.Medium/4.ATOI.cpp)   |
+| 🐈 Medium       | Longest Palindrome Substrings                | [📄 MD](./5.Strings/2.Medium/5.LongestPalindromeSubstring.md)   | [💻 CPP](./5.Strings/2.Medium/5.LongestPalindromeSubstring.cpp)   |
+| 🐈 Medium       | Sum of Beauty of Substrings                | [📄 MD](./5.Strings/2.Medium/6.SumOfBeautyOfSubstrings.md)   | [💻 CPP](./5.Strings/2.Medium/6.SumOfBeautyOfSubstrings.cpp)   |
 | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
 <br>
