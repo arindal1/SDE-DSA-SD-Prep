@@ -31,15 +31,17 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 📌 **System Design Sources**: [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ---
+---
 
 ## 📁 DSA Structure
 
 [ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
 
----
----
 
-## 🧠 Basics
+<details>
+  <summary><h2>🧠 Basics</h2></summary>
+
+<br>
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
@@ -67,7 +69,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🔐 3. Hashing    | Find Duplicates                     | [📄 MD](./1.Basics/3.Hashing/5.FindDuplicates.md)     | [💻 CPP](./1.Basics/3.Hashing/5.FindDuplicates.cpp)     |
 | 🔐 3. Hashing    | Is Anagram                          | [📄 MD](./1.Basics/3.Hashing/6.IsAnagram.md)          | [💻 CPP](./1.Basics/3.Hashing/6.IsAnagram.cpp)          |
 
-## 🔢 Sorting
+</details>
+
+<details>
+  <summary><h2>🔢 Sorting</h2></summary>
+
+<br>
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
@@ -80,7 +87,13 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 📈 2. Advanced   | Heap Sort                          | [📄 MD](./2.Sorting/2.Sorting/3.HeapSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/3.HeapSort.cpp)         |
 | 📈 2. Advanced   | Radix Sort                          | [📄 MD](./2.Sorting/2.Sorting/4.RadixSort.md)         | [💻 CPP](./2.Sorting/2.Sorting/4.RadixSort.cpp)         |
 
-## ♠️ Arrays
+</details>
+
+<details>
+  <summary><h2>♠️ Arrays</h2></summary>
+
+<br>
+
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
@@ -133,8 +146,13 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 📜 2. Hard       | Reverse Pairs                | [📄 MD](./3.Arrays/3.Hard/10.ReversePairs.md) | [💻 CPP](./3.Arrays/3.Hard/10.ReversePairs.cpp) |
 | 📜 2. Hard       | Maximum Product Subarray                | [📄 MD](./3.Arrays/3.Hard/11.MaximumProductSubarray.md) | [💻 CPP](./3.Arrays/3.Hard/11.MaximumProductSubarray.cpp) |
 
+</details>
 
-## 🔍 Binary Search
+<details>
+  <summary><h2>🔍 Binary Search</h2></summary>
+
+<br>
+
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
@@ -165,8 +183,13 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | ⁉️ 3. BS on 2D       | Search in a 2D Matrix - II                | [📄 MD](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/3.SearchInA2DMatrixII.cpp)   |
 | ⁉️ 3. BS on 2D       | Find Peak Element - II                | [📄 MD](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.md)   | [💻 CPP](./4.Binary_Search/3.BSon2D/4.FindPeakElementII.cpp)   |
 
+</details>
 
-## 🧵 Strings
+<details>
+  <summary><h2>🧵 Strings</h2></summary>
+
+<br>
+
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
@@ -187,12 +210,40 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🐈 Medium     | Reverse Words in a String               | [📄 MD](./5.Strings/2.Medium/7.ReverseWords.md)   | [💻 CPP](./5.Strings/2.Medium/7.ReverseWords.cpp)   |
 | 🐈 Medium       | Group Anagrams                | [📄 MD](./5.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./5.Strings/2.Medium/9.GroupAnagrams.cpp)   |
 
+</details>
+
+<details>
+  <summary><h2>🔗 Linked Lists</h2></summary>
+
 <br>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| ➡️ Singly LL      | Intro to Singly Linked Lists               | [📄 MD](./6.Linked_List/1.SinglyLinkedList/)   | [💻 CPP](./6.Linked_List/1.SinglyLinkedList/)   |
+| | | | |
+| 🔀 Doubly LL      | Intro to Doubly Linked Lists               | [📄 MD](./6.Linked_List/2.DoublyLinkedList/)   | [💻 CPP](./6.Linked_List/2.DoublyLinkedList/)   |
+| | | | |
+| 🎯 Medium Singly LL      | Problem 1               | [📄 MD](./6.Linked_List/3.MediumSLL)   | [💻 CPP](./6.Linked_List/3.MediumSLL)   |
+| | | | |
+| 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./6.Linked_List/4.MediumDLL)   | [💻 CPP](./6.Linked_List/4.MediumDLL)   |
+| | | | |
+| 💀 Hard Singly LL      | Problem 1               | [📄 MD](./6.Linked_List/5.HardSLL/)   | [💻 CPP](./6.Linked_List/4.HardSLL/)   |
+
+</details>
+
+
+<br>
+
+---
+---
 
 ## 📁 System Design Structure
 
 [ IN PROGRESS ]
 
+
+---
+---
 
 ## Contact
 
