@@ -230,9 +230,17 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | ➡️ Singly LL      | Length of Linked List               | [📄 MD](./06.Linked_List/1.SinglyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/1.SinglyLinkedList/04.LLLength.cpp)   |
 | ➡️ Singly LL      | Search K in Linked List               | [📄 MD](./06.Linked_List/1.SinglyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/1.SinglyLinkedList/05.SearchInLL.cpp)   |
 | | | | |
-| 🔀 Doubly LL      | Intro to Doubly Linked Lists               | [📄 MD](./6.Linked_List/2.DoublyLinkedList/)   | [💻 CPP](./6.Linked_List/2.DoublyLinkedList/)   |
+| 🔀 Doubly LL      | Array to DLL              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/01.Arr2DLL.cpp)   |
+| 🔀 Doubly LL      | Insertion at Head              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/03.1.InsertionAtHead.cpp)   |
+| 🔀 Doubly LL      | Insertion at Tail              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/03.2.InsertionAtTail.cpp)   |
+| 🔀 Doubly LL      | Insertion at K              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/03.3.InsertAtK.cpp)   |
+| 🔀 Doubly LL      | Deletion from Head              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/02.1.DeletionFromHead.cpp)   |
+| 🔀 Doubly LL      | Deletion from Tail              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/02.2.DeletionFromTail.cpp)   |
+| 🔀 Doubly LL      | Deletion at K              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/02.3.DeletionFromK.cpp)   |
+| 🔀 Doubly LL      | Reverse a Doubly LL              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/04.ReverseDLL.cpp)   |
 | | | | |
-| 🎯 Medium Singly LL      | Problem 1               | [📄 MD](./6.Linked_List/3.MediumSLL)   | [💻 CPP](./6.Linked_List/3.MediumSLL)   |
+| 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL/01.MiddleOfLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/01.MiddleOfLL.cpp)   |
+| 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL)   | [💻 CPP](./06.Linked_List/3.MediumLL)   |
 | | | | |
 | 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./6.Linked_List/4.MediumDLL)   | [💻 CPP](./6.Linked_List/4.MediumDLL)   |
 | | | | |

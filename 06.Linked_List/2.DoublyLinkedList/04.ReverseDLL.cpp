@@ -42,47 +42,55 @@ void PrintLL (Node* head) {
     cout << "\n";
 }
 
-Node* InsertK (Node* head, int val, int k) {
-    if (head == nullptr) {
-        Node* newNode = new Node (val);
-        return newNode;
-    }
+Node* ReverseStack (Node* head) {
+    if (head == NULL || head->next == NULL)
+        return head;
 
+    stack<int> st;
     Node* temp = head;
-    Node* prev = nullptr;
 
-    if (k == 1) {
-        Node* newNode = new Node (val, head, nullptr);
-        head->back = newNode;
-
-        return newNode;
-    }
-
-    int cnt = 0;
     while (temp) {
-        cnt++;
-        if (cnt == k) {
-            temp->next = front;
-            temp->back = prev;
-        }
+        st.push(temp->data);
         temp = temp->next;
     }
-    prev = temp->back;
-    Node* newNode = new Node (val, temp, prev);
-    temp->back = newNode;
+
+    temp = head;
+    while (temp) {
+        temp->data = st.top();
+        st.pop();
+        temp = temp->next;
+    }
 
     return head;
 }
 
+Node* ReverseSwap (Node* head) {
+    if (head == NULL || head->next == NULL)
+        return head;
+
+    Node* temp = head;
+    Node* prev = nullptr;
+
+    while (temp) {
+        prev = temp->back;
+
+        temp->back = temp->next;
+        temp->next = prev;
+
+        temp = temp->back;
+    }
+
+    return prev->back;
+}
+
 int main() {
     vector<int> arr = {12, 22, 24, 14, 5};
-    int val = 777, k = 2;
 
     Node* head = Arr2LL (arr);
 
     PrintLL(head);
 
-    head = InsertK(head, val, k);
+    head = ReverseSwap(head);
     cout << "\n";
 
     PrintLL(head);

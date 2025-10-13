@@ -128,11 +128,172 @@ After: `22  24  14  5`
 
 ---
 
+## 🧩 **5️⃣ Insert at Head of Doubly Linked List**
+
+### **Concept**
+
+Inserts a new node at the **beginning** of the DLL.
+
+### **Algorithm**
+
+1. If the list is empty → create a new node and return it as the head.
+2. Create a new node and link:
+
+   * `newNode->next = head`
+   * `head->back = newNode`
+3. Return `newNode` as the new head.
+
+### **Code Function**
+
+```cpp
+Node* InsertHead(Node* head, int val);
+```
+
+### **Example**
+
+Input: `12 22 24 14 5`, val = `777`
+Output: `777 12 22 24 14 5`
+
+### **Complexity**
+
+* Time: **O(1)**
+* Space: **O(1)**
+
+---
+
+## 🔚 **6️⃣ Insert at Tail of Doubly Linked List**
+
+### **Concept**
+
+Inserts a new node at the **end** of the DLL.
+
+### **Algorithm**
+
+1. If the list is empty → create a new node and return.
+2. Traverse till the last node (`temp->next == nullptr`).
+3. Create a new node:
+
+   * `temp->next = newNode`
+   * `newNode->back = temp`
+4. Return `head`.
+
+### **Code Function**
+
+```cpp
+Node* InsertTail(Node* head, int val);
+```
+
+### **Example**
+
+Input: `12 22 24 14 5`, val = `777`
+Output: `12 22 24 14 5 777`
+
+### **Complexity**
+
+* Time: **O(n)**
+* Space: **O(1)**
+
+---
+
+## ⚙️ **7️⃣ Insert at K-th Position (Under Construction)**
+
+### **Concept**
+
+Inserts a new node at the **K-th position** in a DLL.
+
+### **Steps** ✅
+
+1. Handle `k == 1` separately (use `InsertHead`).
+2. Traverse the list to the `(k-1)`th node.
+3. Create a new node:
+
+   ```cpp
+   Node* newNode = new Node(val);
+   newNode->next = prev->next;
+   newNode->back = prev;
+   if (prev->next) prev->next->back = newNode;
+   prev->next = newNode;
+   ```
+4. Return head.
+
+
+```cpp
+head = InsertK(head, val, k);
+```
+
+### **Complexity**
+
+* Time: **O(k)**
+* Space: **O(1)**
+
+---
+
+## 🔄 **8️⃣ Reverse Doubly Linked List**
+
+### **Two Approaches**
+
+---
+
+### 🧠 **Approach 1: Using Stack**
+
+Stores node values in a stack, then rewrites them in reverse order.
+
+#### **Algorithm**
+
+1. Traverse and push all `data` values to stack.
+2. Traverse again, popping stack values into each node.
+
+#### **Code Function**
+
+```cpp
+Node* ReverseStack(Node* head);
+```
+
+#### **Complexity**
+
+* Time: **O(n)**
+* Space: **O(n)**
+
+---
+
+### ⚡ **Approach 2: In-place Pointer Swap (Optimal)**
+
+#### **Algorithm**
+
+1. Traverse through the list.
+2. For each node, **swap its `next` and `back` pointers**.
+3. Move `temp` backward (`temp = temp->back`).
+4. At the end, `prev->back` becomes the new head.
+
+#### **Code Function**
+
+```cpp
+Node* ReverseSwap(Node* head);
+```
+
+#### **Complexity**
+
+* Time: **O(n)**
+* Space: **O(1)**
+
+---
+
+### **Example**
+
+Input: `12 22 24 14 5`
+Output: `5 14 24 22 12`
+
+---
+
+
 ## 🧠 **Tips & Notes**
 
 * Always check for **null pointers** before deleting.
 * When deleting, always **disconnect both `next` and `back` pointers**.
 * Don’t forget to `delete` the target node to prevent **memory leaks**.
 * You can modify `PrintLL` to print in reverse using `back` pointers — useful for debugging DLLs.
+* For `InsertK()`, ensure to **check boundary conditions** (`k == 1`, `k > length`).
+* Use **in-place reversal** (`ReverseSwap`) for efficiency.
+* `ReverseStack` is easier to understand but uses extra memory.
 
 ---
