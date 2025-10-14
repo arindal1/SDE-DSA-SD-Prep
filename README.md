@@ -240,6 +240,11 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🔀 Doubly LL      | Reverse a Doubly LL              | [📄 MD](./06.Linked_List/2.DoublyLinkedList/README.md)   | [💻 CPP](./06.Linked_List/2.DoublyLinkedList/04.ReverseDLL.cpp)   |
 | | | | |
 | 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL/01.MiddleOfLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/01.MiddleOfLL.cpp)   |
+| 🎯 Medium Singly LL      | Reverse a LL (Iterative)               | [📄 MD](./06.Linked_List/3.MediumLL/02.ReverseLLIterative.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/02.ReverseLLIterative.cpp)   |
+| 🎯 Medium Singly LL      | Reverse a LL (Recursive)               | [📄 MD](./06.Linked_List/3.MediumLL/03.ReverseLLRecursive.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/03.ReverseLLRecursive.cpp)   |
+| 🎯 Medium Singly LL      | Detect a Cyclic Linked List               | [📄 MD](./06.Linked_List/3.MediumLL/04.DetectALoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/04.DetectALoop.cpp)   |
+| 🎯 Medium Singly LL      | Find the start of the Loop               | [📄 MD](./06.Linked_List/3.MediumLL/05.StartingPointInLoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/05.StartingPointInLoop.cpp)   |
+| 🎯 Medium Singly LL      | Find the length of the Loop               | [📄 MD](./06.Linked_List/3.MediumLL/06.LengthOfLoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/06.LengthOfLoop.cpp)   |
 | 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL)   | [💻 CPP](./06.Linked_List/3.MediumLL)   |
 | | | | |
 | 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./6.Linked_List/4.MediumDLL)   | [💻 CPP](./6.Linked_List/4.MediumDLL)   |
@@ -264,8 +269,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ## Contact
 
-- LinkedIn - [arindalchar](www.linkedin.com/in/arindalchar)
-- Twitter - [arindal_17](www.twitter.com/arindal_17)
+- LinkedIn - [arindalchar](https://www.linkedin.com/in/arindalchar)
+- Twitter - [arindal_17](https://www.twitter.com/arindal_17)
 
 ## 🌟 Star the Repo if You Find it Useful!
 
