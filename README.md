@@ -245,6 +245,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎯 Medium Singly LL      | Detect a Cyclic Linked List               | [📄 MD](./06.Linked_List/3.MediumLL/04.DetectALoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/04.DetectALoop.cpp)   |
 | 🎯 Medium Singly LL      | Find the start of the Loop               | [📄 MD](./06.Linked_List/3.MediumLL/05.StartingPointInLoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/05.StartingPointInLoop.cpp)   |
 | 🎯 Medium Singly LL      | Find the length of the Loop               | [📄 MD](./06.Linked_List/3.MediumLL/06.LengthOfLoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/06.LengthOfLoop.cpp)   |
+| 🎯 Medium Singly LL      | Palindrome Linked List               | [📄 MD](./06.Linked_List/3.MediumLL/07.PalindromeLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/07.PalindromeLL.cpp)   |
+| 🎯 Medium Singly LL      | Odd Even Linked List              | [📄 MD](./06.Linked_List/3.MediumLL/08.OddEvenLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/08.OddEvenLL.cpp)   |
 | 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL)   | [💻 CPP](./06.Linked_List/3.MediumLL)   |
 | | | | |
 | 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./6.Linked_List/4.MediumDLL)   | [💻 CPP](./6.Linked_List/4.MediumDLL)   |
