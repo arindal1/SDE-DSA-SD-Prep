@@ -247,9 +247,16 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎯 Medium Singly LL      | Find the length of the Loop               | [📄 MD](./06.Linked_List/3.MediumLL/06.LengthOfLoop.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/06.LengthOfLoop.cpp)   |
 | 🎯 Medium Singly LL      | Palindrome Linked List               | [📄 MD](./06.Linked_List/3.MediumLL/07.PalindromeLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/07.PalindromeLL.cpp)   |
 | 🎯 Medium Singly LL      | Odd Even Linked List              | [📄 MD](./06.Linked_List/3.MediumLL/08.OddEvenLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/08.OddEvenLL.cpp)   |
-| 🎯 Medium Singly LL      | Find the middle of a LL               | [📄 MD](./06.Linked_List/3.MediumLL)   | [💻 CPP](./06.Linked_List/3.MediumLL)   |
+| 🎯 Medium Singly LL      | Delete Nth Node from Back              | [📄 MD](./06.Linked_List/3.MediumLL/09.DeleteNthNodeFromTheBack.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/09.DeleteNthNodeFromTheBack.cpp)   |
+| 🎯 Medium Singly LL      | Delete Middle Note               | [📄 MD](./06.Linked_List/3.MediumLL/10.DeleteMiddleNote.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/10.DeleteMiddleNote.cpp)   |
+| 🎯 Medium Singly LL      | Sort Linked List               | [📄 MD](./06.Linked_List/3.MediumLL/11.SortLinkedList.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/11.SortLinkedList.cpp)   |
+| 🎯 Medium Singly LL      | Intersection of Two LLs               | [📄 MD](./06.Linked_List/3.MediumLL/12.IntersectionOfLLs.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/12.IntersectionOfLLs.cpp)   |
+| 🎯 Medium Singly LL      | Add 1 to a number in LL               | [📄 MD](./06.Linked_List/3.MediumLL/13.Add1toLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/13.Add1toLL.cpp)   |
+| 🎯 Medium Singly LL      | Add two numbers in LL               | [📄 MD](./06.Linked_List/3.MediumLL/14.AddTwoNummbersLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/14.AddTwoNummbersLL.cpp)   |
 | | | | |
-| 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./6.Linked_List/4.MediumDLL)   | [💻 CPP](./6.Linked_List/4.MediumDLL)   |
+| 🌀 Medium Doubly LL      | Delete all occurance of Key               | [📄 MD](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.cpp)   |
+| 🌀 Medium Doubly LL      | Pairs with given Sum in DLL               | [📄 MD](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.cpp)   |
+| 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./06.Linked_List/4.MediumDLL)   | [💻 CPP](./06.Linked_List/4.MediumDLL)   |
 | | | | |
 | 💀 Hard Singly LL      | Problem 1               | [📄 MD](./6.Linked_List/5.HardSLL/)   | [💻 CPP](./6.Linked_List/4.HardSLL/)   |
 
