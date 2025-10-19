@@ -256,9 +256,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | | | | |
 | 🌀 Medium Doubly LL      | Delete all occurance of Key               | [📄 MD](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.cpp)   |
 | 🌀 Medium Doubly LL      | Pairs with given Sum in DLL               | [📄 MD](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.cpp)   |
-| 🌀 Medium Doubly LL      | Problem 1               | [📄 MD](./06.Linked_List/4.MediumDLL)   | [💻 CPP](./06.Linked_List/4.MediumDLL)   |
+| 🌀 Medium Doubly LL      | Remove Duplicates from a DLL        | [📄 MD](./06.Linked_List/4.MediumDLL/03.RemoveDuplicates.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/03.RemoveDuplicates.cpp)   |
 | | | | |
-| 💀 Hard Singly LL      | Problem 1               | [📄 MD](./6.Linked_List/5.HardSLL/)   | [💻 CPP](./6.Linked_List/4.HardSLL/)   |
+| 💀 Hard Singly LL      | Reverse LL in a Group               | [📄 MD](./06.Linked_List/5.HardLL/01.ReveseLLGroup.md)   | [💻 CPP](./06.Linked_List/5.HardLL/01.ReveseLLGroup.cpp)   |
+| 💀 Hard Singly LL      | Rotate a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
+| 💀 Hard Singly LL      | Flattening a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
+| 💀 Hard Singly LL      | Clone a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
 
 </details>
 
