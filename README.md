@@ -259,8 +259,9 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🌀 Medium Doubly LL      | Remove Duplicates from a DLL        | [📄 MD](./06.Linked_List/4.MediumDLL/03.RemoveDuplicates.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/03.RemoveDuplicates.cpp)   |
 | | | | |
 | 💀 Hard Singly LL      | Reverse LL in a Group               | [📄 MD](./06.Linked_List/5.HardLL/01.ReveseLLGroup.md)   | [💻 CPP](./06.Linked_List/5.HardLL/01.ReveseLLGroup.cpp)   |
-| 💀 Hard Singly LL      | Rotate a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
-| 💀 Hard Singly LL      | Flattening a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
+| 💀 Hard Singly LL      | Rotate a LL               | [📄 MD](./06.Linked_List/5.HardLL/02.RotateList.md)   | [💻 CPP](./06.Linked_List/5.HardLL/02.RotateList.cpp)   |
+| 💀 Hard Singly LL      | Merge 2 Sorted LLs               | [📄 MD](./06.Linked_List/5.HardLL/03.MergeTwoSortedLL.md)   | [💻 CPP](./06.Linked_List/5.HardLL/03.MergeTwoSortedLL.cpp)   |
+| 💀 Hard Singly LL      | Merge K sorted LLs               | [📄 MD](./06.Linked_List/5.HardLL/04.MergeKSortedLists.md)   | [💻 CPP](./06.Linked_List/5.HardLL/04.MergeKSortedLists.cpp)   |
 | 💀 Hard Singly LL      | Clone a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
 
 </details>
