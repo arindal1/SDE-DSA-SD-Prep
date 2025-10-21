@@ -262,7 +262,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 💀 Hard Singly LL      | Rotate a LL               | [📄 MD](./06.Linked_List/5.HardLL/02.RotateList.md)   | [💻 CPP](./06.Linked_List/5.HardLL/02.RotateList.cpp)   |
 | 💀 Hard Singly LL      | Merge 2 Sorted LLs               | [📄 MD](./06.Linked_List/5.HardLL/03.MergeTwoSortedLL.md)   | [💻 CPP](./06.Linked_List/5.HardLL/03.MergeTwoSortedLL.cpp)   |
 | 💀 Hard Singly LL      | Merge K sorted LLs               | [📄 MD](./06.Linked_List/5.HardLL/04.MergeKSortedLists.md)   | [💻 CPP](./06.Linked_List/5.HardLL/04.MergeKSortedLists.cpp)   |
-| 💀 Hard Singly LL      | Clone a LL               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
+| 💀 Hard Singly LL      | Clone a LL               | [📄 MD](./06.Linked_List/5.HardLL/05.CloneLL.md)   | [💻 CPP](./06.Linked_List/5.HardLL/05.CloneLL.cpp)   |
+| 💀 Hard Singly LL      | Browser History               | [📄 MD](./06.Linked_List/5.HardLL)   | [💻 CPP](./06.Linked_List/5.HardLL)   |
 
 </details>
 
