@@ -133,6 +133,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 📃 2. Medium       | Partition Labels                | [📄 MD](./03.Arrays/2.Medium/15.PartitionLabels.md) | [💻 CPP](./03.Arrays/2.Medium/15.PartitionLabels.cpp) |
 | 📃 2. Medium       | Sorted Array Squares                | [📄 MD](./03.Arrays/2.Medium/16.SortedArraySquares.md) | [💻 CPP](./03.Arrays/2.Medium/16.SortedArraySquares.cpp) |
 | 📃 2. Medium       | Boats To Save People                | [📄 MD](./03.Arrays/2.Medium/17.BoatsToSavePeople.md) | [💻 CPP](./03.Arrays/2.Medium/17.BoatsToSavePeople.cpp) |
+| 📃 2. Medium       | Simple Bank System                | [📄 MD](./03.Arrays/2.Medium/18.SimpleBankSystem.md) | [💻 CPP](./03.Arrays/2.Medium/18.SimpleBankSystem.cpp) |
+| 📃 2. Medium       | Laser Beams in a Bank                | [📄 MD](./03.Arrays/2.Medium/19.LaserBeamsInABank.md) | [💻 CPP](./03.Arrays/2.Medium/19.LaserBeamsInABank.cpp) |
 | | | | | |
 | 📜 2. Hard       | Pascal's Triangle                | [📄 MD](./03.Arrays/3.Hard/1.PascalsTriangle.md) | [💻 CPP](./03.Arrays/3.Hard/1.PascalsTriangle.cpp) |
 | 📜 2. Hard       | Majority Element - II [> n/3]                | [📄 MD](./03.Arrays/3.Hard/2.MajorityElementII.md) | [💻 CPP](./03.Arrays/3.Hard/2.MajorityElementII.cpp) |
