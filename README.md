@@ -278,6 +278,25 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 🙂‍↕️ Basics | AOTI | [📄 MD](./07.Recursion/1.Basics/01.AOTI.md)   | [💻 CPP](./07.Recursion/1.Basics/01.AOTI.cpp)   |
+| 🙂‍↕️ Basics | Pow (x, n) | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/02.Pow.cpp)   |
+| 🙂‍↕️ Basics | Good Numbers | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🙂‍↕️ Basics | Sort Stack | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🙂‍↕️ Basics | Reverse Stack | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/04.ReverseStack.cpp)   |
+| |
+| 🫨 Subsquences | Generate Binary Strings | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🫨 Subsquences | Generate Paranthesis | [📄 MD](./07.Recursion/2.Subsequence/02.GenerateParanthesis.md)   | [💻 CPP](./07.Recursion/2.Subsequence/02.GenerateParanthesis.cpp)   |
+| 🫨 Subsquences | Power Set | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🫨 Subsquences | Subsequences with Sum K | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🫨 Subsquences | Subsequences with Sum K - II | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🫨 Subsquences | Combination Sum | [📄 MD](./07.Recursion/2.Subsequence/07.CombinationSum.md)   | [💻 CPP](./07.Recursion/2.Subsequence/07.CombinationSum.cpp)   |
+| 🫨 Subsquences | Combination Sum - II | [📄 MD](./07.Recursion/2.Subsequence/08.CombinationSumII.md)   | [💻 CPP](./07.Recursion/2.Subsequence/08.CombinationSumII.cpp)   |
+| 🫨 Subsquences | Subsets | [📄 MD](./07.Recursion/2.Subsequence/09.SubsetSum.md)   | [💻 CPP](./07.Recursion/2.Subsequence/09.SubsetSum.cpp)   |
+| 🫨 Subsquences | Subsets - II | [📄 MD](./07.Recursion/2.Subsequence/10.SubsetSumII.md)   | [💻 CPP](./07.Recursion/2.Subsequence/10.SubsetSumII.cpp)   |
+| 🫨 Subsquences | Combination Sum - III | [📄 MD](./07.Recursion/2.Subsequence/09.SubsetSum.md)   | [💻 CPP](./07.Recursion/2.Subsequence/10.SubsetSumII.cpp)   |
+| 🫨 Subsquences | Phone Number Combination | [📄 MD](public\images\under_construction.png)   | [💻 CPP](public\images\under_construction.png)   |
+| 🫨 Subsquences | Permutations of a String | [📄 MD](./07.Recursion/2.Subsequence/13.PermutaionsOfAString.md)   | [💻 CPP](./07.Recursion/2.Subsequence/13.PermutaionsOfAString.cpp)   |
+| |
+| 🤠 Hard | Palindrome Partioning | [📄 MD](./07.Recursion/3.Hard)   | [💻 CPP](./07.Recursion/3.Hard)   |
 
 
 </details>
