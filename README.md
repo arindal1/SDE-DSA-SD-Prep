@@ -31,15 +31,14 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 📌 **System Design Sources**: [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ---
----
 
-## 📁 DSA Structure
+### 📁 DSA Structure
 
 [ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
 
 
 <details>
-  <summary><h2>🧠 Basics</h2></summary>
+  <summary><h3>🧠 Basics</h3></summary>
 
 <br>
 
@@ -72,7 +71,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 </details>
 
 <details>
-  <summary><h2>🔢 Sorting</h2></summary>
+  <summary><h3>🔢 Sorting</h3></summary>
 
 <br>
 
@@ -90,7 +89,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 </details>
 
 <details>
-  <summary><h2>♠️ Arrays</h2></summary>
+  <summary><h3>♠️ Arrays</h3></summary>
 
 <br>
 
@@ -147,11 +146,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 📜 2. Hard       | Count Inversions                | [📄 MD](./03.Arrays/3.Hard/9.CountInversions.md) | [💻 CPP](./03.Arrays/3.Hard/9.CountInversions.cpp) |
 | 📜 2. Hard       | Reverse Pairs                | [📄 MD](./03.Arrays/3.Hard/10.ReversePairs.md) | [💻 CPP](./03.Arrays/3.Hard/10.ReversePairs.cpp) |
 | 📜 2. Hard       | Maximum Product Subarray                | [📄 MD](./03.Arrays/3.Hard/11.MaximumProductSubarray.md) | [💻 CPP](./03.Arrays/3.Hard/11.MaximumProductSubarray.cpp) |
+| 📜 2. Hard       | Product of Array except Self                | [📄 MD](./03.Arrays/3.Hard/12.ProductOfArrayExceptSelf.md) | [💻 CPP](./03.Arrays/3.Hard/12.ProductOfArrayExceptSelf.cpp) |
 
 </details>
 
 <details>
-  <summary><h2>🔍 Binary Search</h2></summary>
+  <summary><h3>🔍 Binary Search</h3></summary>
 
 <br>
 
@@ -179,6 +179,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | ‼️ 2. BS on Answers  | Split Array to Largest Sum                | [📄 MD](./04.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.md) | [💻 CPP](./04.Binary_Search/2.BSonAnswers/8.SplitArrayLargestSum.cpp) |
 | ‼️ 2. BS on Answers  | Minimize Max Distance between Gas Stations                | [📄 MD](./04.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.md) | [💻 CPP](./04.Binary_Search/2.BSonAnswers/9.MinimizeMaxDistanceStations.cpp) |
 | ‼️ 2. BS on Answers  | Median of Two Sorted Arrays                | [📄 MD](./04.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.md) | [💻 CPP](./04.Binary_Search/2.BSonAnswers/10.MedianOfTwoSortedArrays.cpp) |
+| ‼️ 2. BS on Answers  | Time Map                | [📄 MD](./04.Binary_Search/2.BSonAnswers/11.TimeMap.md) | [💻 CPP](./04.Binary_Search/2.BSonAnswers/11.TimeMap.cpp) |
 | | | | | |
 | ⁉️ 3. BS on 2D       | Row with Maximum 1s                | [📄 MD](./04.Binary_Search/3.BSon2D/1.RowWithMaximum1s.md)   | [💻 CPP](./04.Binary_Search/3.BSon2D/1.RowWithMaximum1s.cpp)   |
 | ⁉️ 3. BS on 2D       | Search in a 2D Matrix - I                | [📄 MD](./04.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.md)   | [💻 CPP](./04.Binary_Search/3.BSon2D/2.SearchInA2DMatrixI.cpp)   |
@@ -188,7 +189,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 </details>
 
 <details>
-  <summary><h2>🧵 Strings</h2></summary>
+  <summary><h3>🧵 Strings</h3></summary>
 
 <br>
 
@@ -211,11 +212,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🐈 Medium       | Sum of Beauty of Substrings                | [📄 MD](./05.Strings/2.Medium/6.SumOfBeautyOfSubstrings.md)   | [💻 CPP](./05.Strings/2.Medium/6.SumOfBeautyOfSubstrings.cpp)   |
 | 🐈 Medium     | Reverse Words in a String               | [📄 MD](./05.Strings/2.Medium/7.ReverseWords.md)   | [💻 CPP](./05.Strings/2.Medium/7.ReverseWords.cpp)   |
 | 🐈 Medium       | Group Anagrams                | [📄 MD](./05.Strings/2.Medium/9.GroupAnagrams.md)   | [💻 CPP](./05.Strings/2.Medium/9.GroupAnagrams.cpp)   |
+| 🐈 Medium       | Longest Substring without Repeating Char                | [📄 MD](./05.Strings/2.Medium/9.LongestSubstringWithoutRepeatingCharacters.md)   | [💻 CPP](./05.Strings/2.Medium/9.LongestSubstringWithoutRepeatingCharacters.cpp)   |
 
 </details>
 
 <details>
-  <summary><h2>🔗 Linked Lists</h2></summary>
+  <summary><h3>🔗 Linked Lists</h3></summary>
 
 <br>
 
@@ -255,6 +257,9 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎯 Medium Singly LL      | Intersection of Two LLs               | [📄 MD](./06.Linked_List/3.MediumLL/12.IntersectionOfLLs.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/12.IntersectionOfLLs.cpp)   |
 | 🎯 Medium Singly LL      | Add 1 to a number in LL               | [📄 MD](./06.Linked_List/3.MediumLL/13.Add1toLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/13.Add1toLL.cpp)   |
 | 🎯 Medium Singly LL      | Add two numbers in LL               | [📄 MD](./06.Linked_List/3.MediumLL/14.AddTwoNummbersLL.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/14.AddTwoNummbersLL.cpp)   |
+| 🎯 Medium Singly LL      | Swap Pairs               | [📄 MD](./06.Linked_List/3.MediumLL//15.SwapPairs.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/15.SwapPairs.cpp)   |
+| 🎯 Medium Singly LL      | Merge Inbetween Zeros               | [📄 MD](./06.Linked_List/3.MediumLL/16.MergeInbetweenZeros.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/16.MergeInbetweenZeros.cpp)   |
+| 🎯 Medium Singly LL      | Delete Nodes present in an Array               | [📄 MD](./06.Linked_List/3.MediumLL/17.DeleteNodesPresentInArray.md)   | [💻 CPP](./06.Linked_List/3.MediumLL/17.DeleteNodesPresentInArray.cpp)   |
 | | | | |
 | 🌀 Medium Doubly LL      | Delete all occurance of Key               | [📄 MD](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/01.DeleteAllKeys.cpp)   |
 | 🌀 Medium Doubly LL      | Pairs with given Sum in DLL               | [📄 MD](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.md)   | [💻 CPP](./06.Linked_List/4.MediumDLL/02.PairsWithGivenSum.cpp)   |
@@ -271,17 +276,17 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 
 <details>
-  <summary><h2>🔁 Recursion</h2></summary>
+  <summary><h3>🔁 Recursion</h3></summary>
 
 <br>
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| 🙂‍↕️ Basics | AOTI | [📄 MD](./07.Recursion/1.Basics/01.AOTI.md)   | [💻 CPP](./07.Recursion/1.Basics/01.AOTI.cpp)   |
-| 🙂‍↕️ Basics | Pow (x, n) | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/02.Pow.cpp)   |
-| 🙂‍↕️ Basics | Good Numbers | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
-| 🙂‍↕️ Basics | Sort Stack | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
-| 🙂‍↕️ Basics | Reverse Stack | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/04.ReverseStack.cpp)   |
+| 🙃 Basics | AOTI | [📄 MD](./07.Recursion/1.Basics/01.AOTI.md)   | [💻 CPP](./07.Recursion/1.Basics/01.AOTI.cpp)   |
+| 🙃 Basics | Pow (x, n) | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/02.Pow.cpp)   |
+| 🙃 Basics | Good Numbers | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
+| 🙃 Basics | Sort Stack | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
+| 🙃 Basics | Reverse Stack | [📄 MD](./07.Recursion/1.Basics/)   | [💻 CPP](./07.Recursion/1.Basics/04.ReverseStack.cpp)   |
 | |
 | 🫨 Subsquences | Generate Binary Strings | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
 | 🫨 Subsquences | Generate Paranthesis | [📄 MD](./07.Recursion/2.Subsequence/02.GenerateParanthesis.md)   | [💻 CPP](./07.Recursion/2.Subsequence/02.GenerateParanthesis.cpp)   |
@@ -296,7 +301,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🫨 Subsquences | Phone Number Combination | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
 | 🫨 Subsquences | Permutations of a String | [📄 MD](./07.Recursion/2.Subsequence/13.PermutaionsOfAString.md)   | [💻 CPP](./07.Recursion/2.Subsequence/13.PermutaionsOfAString.cpp)   |
 | |
-| 🤠 Hard | Palindrome Partioning | [📄 MD](./07.Recursion/3.Hard)   | [💻 CPP](./07.Recursion/3.Hard)   |
+| 🤠 Hard | Palindrome Partioning | [📄 MD](./07.Recursion/3.Hard/01.PalindromePartitioning.md)   | [💻 CPP](./07.Recursion/3.Hard/01.PalindromePartitioning.cpp)   |
 
 
 </details>
@@ -304,21 +309,19 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 <br>
 
 ---
----
 
-## 📁 System Design Structure
+### 📁 System Design Structure
 
 [ IN PROGRESS ]
 
 
 ---
----
 
-## Contact
+### Contact
 
 - LinkedIn - [arindalchar](https://www.linkedin.com/in/arindalchar)
 - Twitter - [arindal_17](https://www.twitter.com/arindal_17)
 
-## 🌟 Star the Repo if You Find it Useful!
+### 🌟 Star the Repo if You Find it Useful!
 
 
