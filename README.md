@@ -192,6 +192,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 <details>
   <summary><h3>🧵 Strings</h3></summary>
 
+  
+
 <br>
 
 
@@ -307,6 +309,20 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 </details>
 
+
+<details>
+  <summary><h3>📦 Stack and Queue</h3></summary>
+
+<br>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🎈 Basics | Implement Stack Using Queue | [📄 MD](./09.Stack_N_Queue/01.Basics/01.ImplementStackUsingQueue.md)   | [💻 CPP](./09.Stack_N_Queue/01.Basics/01.ImplementStackUsingQueue.cpp)   |
+| 🎈 Basics | Implement Queue Using Stacks | [📄 MD](./09.Stack_N_Queue/01.Basics/02.ImplementQueueUsingStacks.md)   | [💻 CPP](./09.Stack_N_Queue/01.Basics/02.ImplementQueueUsingStacks.cpp)   |
+| 🎈 Basics | Valid Parenthesis | [📄 MD](./09.Stack_N_Queue/01.Basics/03.ValidParanthesis.md)   | [💻 CPP](./09.Stack_N_Queue/01.Basics/03.ValidParanthesis.cpp)   |
+| 🎈 Basics | Implement Min-Stack | [📄 MD](./09.Stack_N_Queue/01.Basics)   | [💻 CPP](./09.Stack_N_Queue/01.Basics)   |
+
+</details>
 <br>
 
 ---
