@@ -321,6 +321,9 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎈 Basics | Implement Queue Using Stacks | [📄 MD](./09.Stack_N_Queue/01.Basics/02.ImplementQueueUsingStacks.md)   | [💻 CPP](./09.Stack_N_Queue/01.Basics/02.ImplementQueueUsingStacks.cpp)   |
 | 🎈 Basics | Valid Parenthesis | [📄 MD](./09.Stack_N_Queue/01.Basics/03.ValidParanthesis.md)   | [💻 CPP](./09.Stack_N_Queue/01.Basics/03.ValidParanthesis.cpp)   |
 | 🎈 Basics | Implement Min-Stack | [📄 MD](./09.Stack_N_Queue/01.Basics)   | [💻 CPP](./09.Stack_N_Queue/01.Basics)   |
+| |
+| 🧨 Expressions | Infix 2 Postfix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/01.Infix2Postfix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/01.Infix2Postfix.cpp)   |
+| 🧨 Expressions | Infix 2 Prefix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/02.Infix2Prefix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/02.Infix2Prefix.cpp)   |
 
 </details>
 <br>
