@@ -1,0 +1,50 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+bool isOperand(char c) {
+    return isalnum(static_cast<unsigned char>(c)); // A-Z, a-z, 0-9
+}
+
+bool isOperator(char c) {
+    return c=='+' || c=='-' || c=='*' || c=='/' || c=='^';
+}
+
+// Convert postfix to fully parenthesized infix
+string postfixToInfix(const string& s) {
+    stack<string> st;
+
+    for (char ch : s) {
+        if (isspace(static_cast<unsigned char>(ch))) continue;
+
+        if (isOperand(ch)) {
+            st.push(string(1, ch));
+        } else if (isOperator(ch)) {
+            if (st.size() < 2)
+                throw runtime_error("Invalid expression: insufficient operands for operator.");
+            string t1 = st.top(); st.pop();
+            string t2 = st.top(); st.pop();
+            st.push("(" + t2 + ch + t1 + ")");
+        } else {
+            throw runtime_error(string("Invalid character in expression: '") + ch + "'");
+        }
+    }
+
+    if (st.size() != 1)
+        throw runtime_error("Invalid expression: leftover operands/operators.");
+
+    return st.top();
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    string s;
+    getline(cin, s);
+    try {
+        cout << "Infix: " << postfixToInfix(s) << "\n";
+    } catch (const exception& e) {
+        cout << "Error: " << e.what() << "\n";
+    }
+    return 0;
+}

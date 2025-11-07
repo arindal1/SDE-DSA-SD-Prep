@@ -324,6 +324,13 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | |
 | 🧨 Expressions | Infix 2 Postfix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/01.Infix2Postfix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/01.Infix2Postfix.cpp)   |
 | 🧨 Expressions | Infix 2 Prefix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/02.Infix2Prefix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/02.Infix2Prefix.cpp)   |
+| 🧨 Expressions | Postfix 2 Infix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/03.Postfix2Infix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/03.Postfix2Infix.md)   |
+| 🧨 Expressions | Prefix 2 Infix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/04.Prefix2Infix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/04.Prefix2Infix.cpp)   |
+| 🧨 Expressions | Postfix 2 Prefix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/05.Postfix2Prefix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/05.Postfix2Prefix.cpp)   |
+| 🧨 Expressions | Prefix 2 Postfix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/06.Prefix2Postfix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/06.Prefix2Postfix.cpp)   |
+| |
+| 🎆 Monotonic Stack/Queue | Next Greater Element | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
+
 
 </details>
 <br>
