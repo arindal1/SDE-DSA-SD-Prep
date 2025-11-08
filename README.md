@@ -329,8 +329,10 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🧨 Expressions | Postfix 2 Prefix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/05.Postfix2Prefix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/05.Postfix2Prefix.cpp)   |
 | 🧨 Expressions | Prefix 2 Postfix | [📄 MD](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/06.Prefix2Postfix.md)   | [💻 CPP](./09.Stack_N_Queue/02.Prefix_Postfix_Infix/06.Prefix2Postfix.cpp)   |
 | |
-| 🎆 Monotonic Stack/Queue | Next Greater Element | [📄 MD](public/images/under_construction.png)   | [💻 CPP](public/images/under_construction.png)   |
-
+| 🎆 Monotonic DS | Next Greater Element (LC) | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/01.NextGreaterElement.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/01.NextGreaterElement.cpp)   |
+| 🎆 Monotonic DS | Next Greater Element II | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/02.NextGreaterElementII.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/02.NextGreaterElementII.cpp)   |
+| 🎆 Monotonic DS | Next Smaller Element | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/03.NextSmallerElement.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/03.NextSmallerElement.cpp)   |
+| 🎆 Monotonic DS | NGE to Right | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.cpp)   |
 
 </details>
 <br>
