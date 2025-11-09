@@ -333,6 +333,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎆 Monotonic DS | Next Greater Element II | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/02.NextGreaterElementII.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/02.NextGreaterElementII.cpp)   |
 | 🎆 Monotonic DS | Next Smaller Element | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/03.NextSmallerElement.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/03.NextSmallerElement.cpp)   |
 | 🎆 Monotonic DS | NGE to Right | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.cpp)   |
+| 🎆 Monotonic DS | Trapping Rainwater | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.cpp)   |
+| 🎆 Monotonic DS | Sum of Subarray Minimums | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.cpp)   |
 
 </details>
 <br>
