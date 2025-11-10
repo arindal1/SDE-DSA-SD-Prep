@@ -335,6 +335,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎆 Monotonic DS | NGE to Right | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/04.NGEsToRight.cpp)   |
 | 🎆 Monotonic DS | Trapping Rainwater | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.cpp)   |
 | 🎆 Monotonic DS | Sum of Subarray Minimums | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.cpp)   |
+| 🎆 Monotonic DS | Astroid Collisions | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/07.AsteroidCollision.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/07.AsteroidCollision.cpp)   |
+
 
 </details>
 <br>
