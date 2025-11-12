@@ -336,6 +336,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎆 Monotonic DS | Trapping Rainwater | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/05.TrappingRainwater.cpp)   |
 | 🎆 Monotonic DS | Sum of Subarray Minimums | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/06.SumofSubarrayMinimums.cpp)   |
 | 🎆 Monotonic DS | Astroid Collisions | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/07.AsteroidCollision.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/07.AsteroidCollision.cpp)   |
+| 🎆 Monotonic DS | Remove K Digits | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/08.RemoveKDigits.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/08.RemoveKDigits.cpp)   |
+| 🎆 Monotonic DS | Largest Rectangle in Histogram | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/09.LargestRectangleInHistogram.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/09.LargestRectangleInHistogram.cpp)   |
+| 🎆 Monotonic DS | Maximum Rectangle | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/10.MaximumRectangle.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/10.MaximumRectangle.cpp)   |
+| |
+| 🎃 Advanced | Sliding Window Maximum | [📄 MD](09.Stack_N_Queue/04.Advanced/01.SlidingWindowMaximum.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/01.SlidingWindowMaximum.cpp) |
+| 🎃 Advanced | Sliding Window Maximum | [📄 MD](09.Stack_N_Queue/04.Advanced/) | [💻 CPP](09.Stack_N_Queue/04.Advanced/) |
 
 
 </details>
