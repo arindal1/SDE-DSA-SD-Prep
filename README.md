@@ -341,7 +341,10 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎆 Monotonic DS | Maximum Rectangle | [📄 MD](09.Stack_N_Queue/03.MonotonicDS/10.MaximumRectangle.md)   | [💻 CPP](09.Stack_N_Queue/03.MonotonicDS/10.MaximumRectangle.cpp)   |
 | |
 | 🎃 Advanced | Sliding Window Maximum | [📄 MD](09.Stack_N_Queue/04.Advanced/01.SlidingWindowMaximum.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/01.SlidingWindowMaximum.cpp) |
-| 🎃 Advanced | Sliding Window Maximum | [📄 MD](09.Stack_N_Queue/04.Advanced/) | [💻 CPP](09.Stack_N_Queue/04.Advanced/) |
+| 🎃 Advanced | Online Stock Span | [📄 MD](09.Stack_N_Queue/04.Advanced/02.OnlineStockSpan.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/02.OnlineStockSpan.cpp) |
+| 🎃 Advanced | The Celebrity Problem | [📄 MD](09.Stack_N_Queue/04.Advanced/03.TheCelebrityProblem.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/03.TheCelebrityProblem.cpp) |
+| 🎃 Advanced | LRU Cache | [📄 MD](09.Stack_N_Queue/04.Advanced/04.LRUCache.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/04.LRUCache.cpp) |
+| 🎃 Advanced | LFU Cache | [📄 MD](09.Stack_N_Queue/04.Advanced/05.LFUCache.md) | [💻 CPP](09.Stack_N_Queue/04.Advanced/05.LFUCache.cpp) |
 
 
 </details>
