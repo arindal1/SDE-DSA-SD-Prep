@@ -350,6 +350,19 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 </details>
 <br>
 
+
+<details>
+  <summary><h3>〽️ Two Pointer and Sliding Window</h3></summary>
+
+<br>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🎲 Medium | Longest Substring without Repeating Characters | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.cpp) |
+
+
+</details>
+
 ---
 
 ### 📁 System Design Structure
