@@ -359,6 +359,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 🎲 Medium | Longest Substring without Repeating Characters | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.cpp) |
+| 🎲 Medium | Max Consecutive Ones III | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/02.MaxConsecutiveOnesIII.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/02.MaxConsecutiveOnesIII.cpp) |
+| 🎲 Medium | Fruits in a Basket | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/03.FruitsInABasket.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/03.FruitsInABasket.cpp) |
 
 
 </details>
