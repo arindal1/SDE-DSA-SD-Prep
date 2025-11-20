@@ -32,7 +32,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ---
 
-### 📁 DSA Structure
+## 📁 Data Structures and Algorithms
 
 [ 📄 `.md` files for explanation | 💻 `.cpp` files for code implementation ]
 
@@ -361,13 +361,69 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎲 Medium | Longest Substring without Repeating Characters | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/01.LongestSubStrWoRepeatingChar.cpp) |
 | 🎲 Medium | Max Consecutive Ones III | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/02.MaxConsecutiveOnesIII.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/02.MaxConsecutiveOnesIII.cpp) |
 | 🎲 Medium | Fruits in a Basket | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/03.FruitsInABasket.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/03.FruitsInABasket.cpp) |
+| 🎲 Medium | Longest Repeating Character Replacement | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/04.LongestRepeatingCharacterReplacement.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/04.LongestRepeatingCharacterReplacement.cpp) |
+| 🎲 Medium | Binary Subarray with Sum K | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/05.BinarySubarraysWSumK.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/05.BinarySubarraysWSumK.cpp) |
+| 🎲 Medium | Subarrays that are Nice | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/06.NiceSubArrays.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/06.NiceSubArrays.cpp) |
 
 
 </details>
 
 ---
 
-### 📁 System Design Structure
+## ⚛️ Development Structure
+
+> This is a roadmap for devlopment in Javascript. If you're interested in full stack MERN devlopment, follow this roadmap in the given order. <br> 
+> I know this might seem like a lot, but success only comes to those who persist, and don't give up. Anyway, as you progress through the foundations, the later parts become easier.
+
+<details>
+  <summary><h3>🍕 Roadmap</h3></summary>
+
+<br>
+
+| Topic | Recourse | Links | Notes |
+|:---|:---|:---:|---|
+| HTML | Youtube - Dave Gray | [YT](https://www.youtube.com/watch?v=mJgBOIoGihA) | Do this first, learn about semantics and tags and why they are important. |
+| CSS | Youtube - Dave Gray | [YT](https://www.youtube.com/watch?v=n4R2E7O-Ngo) | Get basic understanding of CSS classes, and practices with simple projects. |
+| HTML & CSS | Youtube - SuperSimpleDev | [YT](https://www.youtube.com/watch?v=G3e-cpL7ofc) | Love Simon's content, super simple, and easy to understand. |
+| |
+| Javascript | Hitest Choudhary | [YT](https://www.youtube.com/watch?v=dlfrWbYk1v0&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP) | This is an old series by Hitesh sir, all in english, and pretty solid. |
+| Javascript | Hitest Choudhary | [YT](https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37) | This series is in ***Hindi***, more modern and simple. |
+| Javascript | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=EerdGm-ehJQ&pp=ygUWamF2YXNjcmlwdCBmdWxsIGNvdXJzZQ%3D%3D) | Simon again, he's is also really great, industry standard but simple. |
+| Javascript | Dave Gray | [YT](https://www.youtube.com/watch?v=EfAl9bwzVZk&pp=ygUWamF2YXNjcmlwdCBmdWxsIGNvdXJzZQ%3D%3D) | Dave is also great, but I prefered the other three above in JS. |
+| Javascript | arindal1 | [repo](https://github.com/arindal1/JS-Lookup) | Elaborate notes on Javascript with code and examples. |
+| Javascript | arindal1 | [repo](https://github.com/arindal1/30Day-JS) | A 30 Day Javascript challenge, to make your foundations solid. |
+| |
+| Git | Brendan Dickinson | [YT](https://www.youtube.com/watch?v=IeXhYROClZk) | Short and sweet intro to Git. |
+| Git | Nick White | [YT](https://www.youtube.com/watch?v=mJ-qvsxPHpY) | Simple and straight, a more casual and easy explanation. |
+| Git | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=zTjRZNkhiEU&t=7809s&pp=ygUPZ2l0IGZ1bGwgY291cnNl) | If you want to go in depth, with inner mechanisms and industry level standards. |
+| |
+| NPM | Traversy Media | [YT](https://www.youtube.com/watch?v=jHDhaSSKmB0) | Course to package managers for Development. |
+| |
+| TailwindCSS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=6biMWgD6_JY&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Great explanations, and hands on parctice. |
+| TailwindCSS | Dave Gray | [YT](https://www.youtube.com/watch?v=lCxcTsOHrjo&t=3s&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Dave is really good with CSS, smh.
+| |
+| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) | Hitesh sir is super particular about industry standards. This series is in ***Hindi***.|
+| ReactJS | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=TtPXvEcE11E&pp=ygUMcmVhY3QgY291cnNl0gcJCQwKAYcqIYzv) | Simon is always straight, and tries his best to keep things simple but good quality. |
+| ReactJS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=dCLhUialKPQ&pp=ygUMcmVhY3QgY291cnNl) | Once you have understood basics of React, watch this. |
+| |
+| Linters and Formatters | CodeDave | [YT](https://www.youtube.com/watch?v=HDQXWr5TOnI&pp=ygUibGludGVycyBhbmQgZm9ybWF0dGVycyBkZXZlbG9wbWVudNIHCQkMCgGHKiGM7w%3D%3D) | Linters are fairly easy, just watch this and gain a basic understanding. |
+| |
+| Module Bundler | Fireship | [YT](https://www.youtube.com/watch?v=5IG4UmULyoA) | You will already know about module bundlers while learning React, if not, this is for you. I find fireship really interesting. |
+| Vite | CodeSTACKr | [YT](https://www.youtube.com/watch?v=LQQ3CR2JTX8) | A vite crash course to know indepth mechanisms of Vite. (optional) |
+| |
+| Testing | dotconferences | [YT](https://www.youtube.com/watch?v=l3qjQpYBR8c) | Testing is an essential but advanced part of development. This video tells you all about testing in industry. |
+| Jest | FreeCodeCamp | [YT](https://www.youtube.com/watch?v=IPiUDhwnZxA) | Jest is a Javascript testing tech. | 
+| |
+
+> under progress...
+
+</details>
+
+
+
+---
+
+## 📁 System Design Structure
 
 [ IN PROGRESS ]
 
