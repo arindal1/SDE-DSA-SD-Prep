@@ -348,7 +348,6 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 
 </details>
-<br>
 
 
 <details>
@@ -388,7 +387,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | |
 | Javascript | Hitest Choudhary | [YT](https://www.youtube.com/watch?v=dlfrWbYk1v0&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP) | This is an old series by Hitesh sir, all in english, and pretty solid. |
 | Javascript | Hitest Choudhary | [YT](https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37) | This series is in ***Hindi***, more modern and simple. |
-| Javascript | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=EerdGm-ehJQ&pp=ygUWamF2YXNjcmlwdCBmdWxsIGNvdXJzZQ%3D%3D) | Simon again, he's is also really great, industry standard but simple. |
+| Javascript | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=EerdGm-ehJQ&pp=ygUWamF2YXNjcmlwdCBmdWxsIGNvdXJzZQ%3D%3D) | Simon again, he is also really great, industry standard but simple. |
 | Javascript | Dave Gray | [YT](https://www.youtube.com/watch?v=EfAl9bwzVZk&pp=ygUWamF2YXNjcmlwdCBmdWxsIGNvdXJzZQ%3D%3D) | Dave is also great, but I prefered the other three above in JS. |
 | Javascript | arindal1 | [repo](https://github.com/arindal1/JS-Lookup) | Elaborate notes on Javascript with code and examples. |
 | Javascript | arindal1 | [repo](https://github.com/arindal1/30Day-JS) | A 30 Day Javascript challenge, to make your foundations solid. |
@@ -406,7 +405,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | ReactJS | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=TtPXvEcE11E&pp=ygUMcmVhY3QgY291cnNl0gcJCQwKAYcqIYzv) | Simon is always straight, and tries his best to keep things simple but good quality. |
 | ReactJS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=dCLhUialKPQ&pp=ygUMcmVhY3QgY291cnNl) | Once you have understood basics of React, watch this. |
 | |
-| Linters and Formatters | CodeDave | [YT](https://www.youtube.com/watch?v=HDQXWr5TOnI&pp=ygUibGludGVycyBhbmQgZm9ybWF0dGVycyBkZXZlbG9wbWVudNIHCQkMCgGHKiGM7w%3D%3D) | Linters are fairly easy, just watch this and gain a basic understanding. |
+| Linters and Formatters | CoderDave | [YT](https://www.youtube.com/watch?v=HDQXWr5TOnI&pp=ygUibGludGVycyBhbmQgZm9ybWF0dGVycyBkZXZlbG9wbWVudNIHCQkMCgGHKiGM7w%3D%3D) | Linters are fairly easy, just watch this and gain a basic understanding. |
 | |
 | Module Bundler | Fireship | [YT](https://www.youtube.com/watch?v=5IG4UmULyoA) | You will already know about module bundlers while learning React, if not, this is for you. I find fireship really interesting. |
 | Vite | CodeSTACKr | [YT](https://www.youtube.com/watch?v=LQQ3CR2JTX8) | A vite crash course to know indepth mechanisms of Vite. (optional) |
