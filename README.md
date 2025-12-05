@@ -363,6 +363,34 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🎲 Medium | Longest Repeating Character Replacement | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/04.LongestRepeatingCharacterReplacement.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/04.LongestRepeatingCharacterReplacement.cpp) |
 | 🎲 Medium | Binary Subarray with Sum K | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/05.BinarySubarraysWSumK.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/05.BinarySubarraysWSumK.cpp) |
 | 🎲 Medium | Subarrays that are Nice | [📄 MD](10.TwoPointer_N_SlidingWindow/01.Medium/06.NiceSubArrays.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/01.Medium/06.NiceSubArrays.cpp) |
+| |
+| 🧰 Hard | Substring w/ K Distinct Characters | [📄 MD](10.TwoPointer_N_SlidingWindow/02.Hard/01.SubstringWithKDistinctChars.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/02.Hard/01.SubstringWithKDistinctChars.cpp) |
+| 🧰 Hard | Substring w/ K Different Characters | [📄 MD](10.TwoPointer_N_SlidingWindow/02.Hard/02.SubstringWithKDiffInt.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/02.Hard/02.SubstringWithKDiffInt.cpp) |
+| 🧰 Hard | Minimum Window Substring | [📄 MD](10.TwoPointer_N_SlidingWindow/02.Hard/03.MinimumWindowSubstring.md) | [💻 CPP](10.TwoPointer_N_SlidingWindow/02.Hard/03.MinimumWindowSubstring.cpp) |
+
+
+</details>
+
+
+
+<details>
+  <summary><h3>🗻 Heaps</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🎴 Basics | About Priority Queues | [📄 MD](11.Heaps/01.Basics/README.md) | - |
+| 🎴 Basics | Binary Min Heap | [📄 MD](11.Heaps/01.Basics/01.BinaryMinHeap.md) | [💻 CPP](11.Heaps/01.Basics/01.BinaryMinHeap.cpp) |
+| 🎴 Basics | Binary max Heap | [📄 MD](11.Heaps/01.Basics/02.BinaryMaxHeap.md) | [💻 CPP](11.Heaps/01.Basics/02.BinaryMaxHeap.cpp) |
+| 🎴 Basics | Is Array a Min Heap | [📄 MD](11.Heaps/01.Basics/03.IsArrayMinHeap.md) | [💻 CPP](11.Heaps/01.Basics/03.IsArrayMinHeap.cpp) |
+| 🎴 Basics | Min Heap 2 Max Heap | [📄 MD](11.Heaps/01.Basics/04.MinHeap2MaxHeap.md) | [💻 CPP](11.Heaps/01.Basics/04.MinHeap2MaxHeap.cpp) |
+| |
+| 🀄 Medium | Kth Largest Element | [📄 MD](11.Heaps/02.Medium/01.KthLargestElement.md) | [💻 CPP](11.Heaps/02.Medium/01.KthLargestElement.cpp) |
+| 🀄 Medium | Kth Smallest Element | [📄 MD](11.Heaps/02.Medium/02.KthSmallestElement.md) | [💻 CPP](11.Heaps/02.Medium/02.KthSmallestElement.cpp) |
+| 🀄 Medium | . | [📄 MD](11.Heaps/02.Medium) | [💻 CPP](11.Heaps/02.Medium) |
+
+<br>
+
+
 
 
 </details>
