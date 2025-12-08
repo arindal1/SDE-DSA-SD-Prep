@@ -386,7 +386,13 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | |
 | 🀄 Medium | Kth Largest Element | [📄 MD](11.Heaps/02.Medium/01.KthLargestElement.md) | [💻 CPP](11.Heaps/02.Medium/01.KthLargestElement.cpp) |
 | 🀄 Medium | Kth Smallest Element | [📄 MD](11.Heaps/02.Medium/02.KthSmallestElement.md) | [💻 CPP](11.Heaps/02.Medium/02.KthSmallestElement.cpp) |
-| 🀄 Medium | . | [📄 MD](11.Heaps/02.Medium) | [💻 CPP](11.Heaps/02.Medium) |
+| 🀄 Medium | Sort Almost Sorted Array | [📄 MD](11.Heaps/02.Medium/03.SortKSortedArray.md) | [💻 CPP](11.Heaps/02.Medium/03.SortKSortedArray.cpp) |
+| 🀄 Medium | Task Scheduler | [📄 MD](11.Heaps/02.Medium/04.TaskScheduler.md) | [💻 CPP](11.Heaps/02.Medium/04.TaskScheduler.cpp) |
+| |
+| 🃏 Hard | Design Twitter | [📄 MD](11.Heaps/03.Hard/01.DesignTwitter.md) | [💻 CPP](11.Heaps/03.Hard/01.DesignTwitter.cpp) |
+| 🃏 Hard | Connect Sticks | [📄 MD](11.Heaps/03.Hard/02.MinCostToconnectStricks.md) | [💻 CPP](11.Heaps/03.Hard/02.MinCostToConnectSticks.cpp) |
+| 🃏 Hard | Kth Largest in a Stream | [📄 MD](11.Heaps/03.Hard/03.KthLargestElementInAStream.md) | [💻 CPP](11.Heaps/03.Hard/03.KthLargestElementInAStream.cpp) |
+| 🃏 Hard | - | [📄 MD](11.Heaps/03.Hard) | [💻 CPP](11.Heaps/03.Hard) |
 
 <br>
 
