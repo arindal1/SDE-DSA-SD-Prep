@@ -392,12 +392,11 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🃏 Hard | Design Twitter | [📄 MD](11.Heaps/03.Hard/01.DesignTwitter.md) | [💻 CPP](11.Heaps/03.Hard/01.DesignTwitter.cpp) |
 | 🃏 Hard | Connect Sticks | [📄 MD](11.Heaps/03.Hard/02.MinCostToconnectStricks.md) | [💻 CPP](11.Heaps/03.Hard/02.MinCostToConnectSticks.cpp) |
 | 🃏 Hard | Kth Largest in a Stream | [📄 MD](11.Heaps/03.Hard/03.KthLargestElementInAStream.md) | [💻 CPP](11.Heaps/03.Hard/03.KthLargestElementInAStream.cpp) |
-| 🃏 Hard | - | [📄 MD](11.Heaps/03.Hard) | [💻 CPP](11.Heaps/03.Hard) |
+| 🃏 Hard | Max Sum Combination | [📄 MD](11.Heaps/03.Hard/04.MaximumSumCombination.md) | [💻 CPP](11.Heaps/03.Hard/04.MaximumSumCombination.cpp) |
+| 🃏 Hard | Median in a Data Stream | [📄 MD](11.Heaps/03.Hard/05.MedianInDataStream.md) | [💻 CPP](11.Heaps/03.Hard/05.MedianInDataStream.cpp) |
+| 🃏 Hard | K Frequent Elements | [📄 MD](11.Heaps/03.Hard) | [💻 CPP](11.Heaps/03.Hard) |
 
 <br>
-
-
-
 
 </details>
 
