@@ -394,9 +394,21 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🃏 Hard | Kth Largest in a Stream | [📄 MD](11.Heaps/03.Hard/03.KthLargestElementInAStream.md) | [💻 CPP](11.Heaps/03.Hard/03.KthLargestElementInAStream.cpp) |
 | 🃏 Hard | Max Sum Combination | [📄 MD](11.Heaps/03.Hard/04.MaximumSumCombination.md) | [💻 CPP](11.Heaps/03.Hard/04.MaximumSumCombination.cpp) |
 | 🃏 Hard | Median in a Data Stream | [📄 MD](11.Heaps/03.Hard/05.MedianInDataStream.md) | [💻 CPP](11.Heaps/03.Hard/05.MedianInDataStream.cpp) |
-| 🃏 Hard | K Frequent Elements | [📄 MD](11.Heaps/03.Hard) | [💻 CPP](11.Heaps/03.Hard) |
+| 🃏 Hard | K Frequent Elements | [📄 MD](11.Heaps/03.Hard/06.KMostFrequent.md) | [💻 CPP](11.Heaps/03.Hard/06.KMostFrequent.cpp) |
 
 <br>
+
+</details>
+
+<details>
+  <summary><h3>🤑 Greedy Algorithm</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🤧 Easy | Assign Cookies | [📄 MD](12.Greedy/01.Easy/01.AssignCookies.md) | [💻 CPP](12.Greedy/01.Easy/01.AssignCookies.cpp) |
+
+
+
 
 </details>
 
