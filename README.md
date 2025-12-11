@@ -406,7 +406,12 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 🤧 Easy | Assign Cookies | [📄 MD](12.Greedy/01.Easy/01.AssignCookies.md) | [💻 CPP](12.Greedy/01.Easy/01.AssignCookies.cpp) |
-
+| 🤧 Easy | Lemonade Changes | [📄 MD](12.Greedy/01.Easy/04.LemonadeChange.md) | [💻 CPP](12.Greedy/01.Easy/04.LemonadeChange.cpp) |
+| 🤧 Easy | - | [📄 MD](12.Greedy/01.Easy) | [💻 CPP](12.Greedy/01.Easy) |
+| |
+| 🤐 Medium | Shortest Job First | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.md) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) |
+| 🤐 Medium | - | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp)
+| |
 
 
 
