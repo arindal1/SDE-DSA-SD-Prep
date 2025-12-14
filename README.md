@@ -409,6 +409,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🤧 Easy | Lemonade Changes | [📄 MD](12.Greedy/01.Easy/04.LemonadeChange.md) | [💻 CPP](12.Greedy/01.Easy/04.LemonadeChange.cpp) |
 | 🤧 Easy | - | [📄 MD](12.Greedy/01.Easy) | [💻 CPP](12.Greedy/01.Easy) |
 | |
+| 🤐 Medium | Jump Game | [📄 MD](12.Greedy/02.Medium/02.JumpGame.md) | [💻 CPP](12.Greedy/02.Medium/02.JumpGame.cpp)
+| 🤐 Medium | Jump Game II | [📄 MD](12.Greedy/02.Medium/03.JumpGameII.md) | [💻 CPP](12.Greedy/02.Medium/03.JumpGameII.cpp)
 | 🤐 Medium | Shortest Job First | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.md) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) |
 | 🤐 Medium | - | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp)
 | |
@@ -451,8 +453,9 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | TailwindCSS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=6biMWgD6_JY&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Great explanations, and hands on parctice. |
 | TailwindCSS | Dave Gray | [YT](https://www.youtube.com/watch?v=lCxcTsOHrjo&t=3s&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Dave is really good with CSS, smh.
 | |
-| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) | Hitesh sir is super particular about industry standards. This series is in ***Hindi***.|
-| ReactJS | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=TtPXvEcE11E&pp=ygUMcmVhY3QgY291cnNl0gcJCQwKAYcqIYzv) | Simon is always straight, and tries his best to keep things simple but good quality. |
+| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=Bvwq_S0n2pk) | Pure beginner friendly course for React. Hitesh sir is super particular about industry standards. |
+| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) | This series is in ***Hindi***, equivalent to the course above.|
+| ReactJS | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=TtPXvEcE11E&pp=ygUMcmVhY3QgY291cnNl0gcJCQwKAYcqIYzv) | Simon is always straightforward, and tries his best to keep things simple but good quality. |
 | ReactJS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=dCLhUialKPQ&pp=ygUMcmVhY3QgY291cnNl) | Once you have understood basics of React, watch this. |
 | |
 | Linters and Formatters | CoderDave | [YT](https://www.youtube.com/watch?v=HDQXWr5TOnI&pp=ygUibGludGVycyBhbmQgZm9ybWF0dGVycyBkZXZlbG9wbWVudNIHCQkMCgGHKiGM7w%3D%3D) | Linters are fairly easy, just watch this and gain a basic understanding. |
