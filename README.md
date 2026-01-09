@@ -406,14 +406,49 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | 🤧 Easy | Assign Cookies | [📄 MD](12.Greedy/01.Easy/01.AssignCookies.md) | [💻 CPP](12.Greedy/01.Easy/01.AssignCookies.cpp) |
+| 🤧 Easy | Fractional Knapsack | [📄 MD](12.Greedy/01.Easy/02.FractionalKnapsack.md) | [💻 CPP](12.Greedy/01.Easy/02.FractionalKnapsack.cpp) |
+| 🤧 Easy | Minimum Coins | [📄 MD](12.Greedy/01.Easy/03.MinimumCoins.md) | [💻 CPP](12.Greedy/01.Easy/03.MinimumCoins.cpp) |
 | 🤧 Easy | Lemonade Changes | [📄 MD](12.Greedy/01.Easy/04.LemonadeChange.md) | [💻 CPP](12.Greedy/01.Easy/04.LemonadeChange.cpp) |
-| 🤧 Easy | - | [📄 MD](12.Greedy/01.Easy) | [💻 CPP](12.Greedy/01.Easy) |
+| 🤧 Easy | Valid Parenthesis | [📄 MD](12.Greedy/01.Easy/05.ValidParenthesis.md) | [💻 CPP](12.Greedy/01.Easy/05.ValidParenthesis.cpp) |
 | |
-| 🤐 Medium | Jump Game | [📄 MD](12.Greedy/02.Medium/02.JumpGame.md) | [💻 CPP](12.Greedy/02.Medium/02.JumpGame.cpp)
-| 🤐 Medium | Jump Game II | [📄 MD](12.Greedy/02.Medium/03.JumpGameII.md) | [💻 CPP](12.Greedy/02.Medium/03.JumpGameII.cpp)
+| 🤐 Medium | N Meetings | [📄 MD](12.Greedy/02.Medium/01.NMeetings.md) | [💻 CPP](12.Greedy/02.Medium/01.NMeetings.cpp) |
+| 🤐 Medium | Jump Game | [📄 MD](12.Greedy/02.Medium/02.JumpGame.md) | [💻 CPP](12.Greedy/02.Medium/02.JumpGame.cpp) |
+| 🤐 Medium | Jump Game II | [📄 MD](12.Greedy/02.Medium/03.JumpGameII.md) | [💻 CPP](12.Greedy/02.Medium/03.JumpGameII.cpp) |
+| 🤐 Medium | Minimum Platforms for Trains | [📄 MD](12.Greedy/02.Medium/04.MinPlatforms.md) | [💻 CPP](12.Greedy/02.Medium/04.MinPlatforms.cpp) |
+| 🤐 Medium | Job Sequencing | [📄 MD](12.Greedy/02.Medium/05.JobSequencing.md) | [💻 CPP](12.Greedy/02.Medium/05.JobSequencing.cpp) |
+| 🤐 Medium | Candy | [📄 MD](12.Greedy/02.Medium/06.Candy.md) | [💻 CPP](12.Greedy/02.Medium/06.Candy.cpp) |
 | 🤐 Medium | Shortest Job First | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.md) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) |
-| 🤐 Medium | - | [📄 MD](12.Greedy/02.Medium/07.ShortestJobFirst.cpp) | [💻 CPP](12.Greedy/02.Medium/07.ShortestJobFirst.cpp)
+| 🤐 Medium | LRU Cache | [📄 MD](12.Greedy/02.Medium/08.LRUCache.md) | [💻 CPP](12.Greedy/02.Medium/08.LRUCache.cpp)
+| 🤐 Medium | Insert Intervals | [📄 MD](12.Greedy/02.Medium/09.Intervals.md) | [💻 CPP](12.Greedy/02.Medium/09.Intervals.cpp) |
+| 🤐 Medium | Largest Number | [📄 MD](12.Greedy/02.Medium/12.LargestNumber.md) | [💻 CPP](12.Greedy/02.Medium/12.LargestNumber.cpp) |
 | |
+
+</details>
+
+<details>
+  <summary><h3>🌴 Binary Trees</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🌳 Traversals | Introductions | [📄 MD](13.BinaryTrees/01.Basics/01.Introduction.md) | - |
+| 🌳 Traversals | Binary Trees in C++ | [📄 MD](13.BinaryTrees/01.Basics/02.BTinCpp.md) | - |
+| 🌳 Traversals | Preorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/03.Preorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/03.Preorder.cpp) |
+| 🌳 Traversals | Inorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/04.Inorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/04.Inorder.cpp) |
+| 🌳 Traversals | Postorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/05.Postorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/05.Postorder.cpp) |
+| 🌳 Traversals | Level Order | [📄 MD](13.BinaryTrees/01.Basics/06.LevelOrder.md) | [💻 CPP](13.BinaryTrees/01.Basics/06.LevelOrder.cpp) |
+| 🌳 Traversals | Preorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/07.Preorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/07.Preorder2.cpp) |
+| 🌳 Traversals | Inorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/08.Inorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/08.Inorder2.cpp) |
+| 🌳 Traversals | Postorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/09.Postorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/09.Postorder2.cpp) |
+| |
+| 🌲 Medium | Max Depth of BT | [📄 MD](13.BinaryTrees/02.Medium/01.MaxDepth.md) | [💻 CPP](13.BinaryTrees/02.Medium/01.MaxDepth.cpp) |
+| 🌲 Medium | Is BT Balanced? | [📄 MD](13.BinaryTrees/02.Medium/02.BalancedBinaryTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/02.BalancedBinaryTree.cpp) |
+| 🌲 Medium | Diameter of BT | [📄 MD](13.BinaryTrees/02.Medium/03.DiameterOfTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/03.DiameterOfTree.cpp) |
+| 🌲 Medium | Max Sum of Path | [📄 MD](13.BinaryTrees/02.Medium/04.MaxPath.md) | [💻 CPP](13.BinaryTrees/02.Medium/04.MaxPath.cpp) |
+| 🌲 Medium | - | [📄 MD](13.BinaryTrees/02.Medium) | [💻 CPP](13.BinaryTrees/02.Medium) |
+| 🌲 Medium | Symmetric BT | [📄 MD](13.BinaryTrees/02.Medium/12.SymmetricTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/12.SymmetricTree.cpp) |
+| 🌲 Medium | Is it the Same Tree? | [📄 MD](13.BinaryTrees/02.Medium/13.SameTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.SameTree.cpp) |
+| 🌲 Medium | Minimum Depth of BT | [📄 MD](13.BinaryTrees/02.Medium/14.MinimumDepth.md) | [💻 CPP](13.BinaryTrees/02.Medium/14.MinimumDepth.cpp) |
+
 
 
 
@@ -423,15 +458,15 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ## ⚛️ Development Structure
 
-> This is a roadmap for devlopment in Javascript. If you're interested in full stack MERN devlopment, follow this roadmap in the given order. <br> 
+> This is a roadmap for devlopment in Javascript. If you're interested in frontend development through React and Javascript, follow this roadmap in the given order. <br> 
 > I know this might seem like a lot, but success only comes to those who persist, and don't give up. Anyway, as you progress through the foundations, the later parts become easier.
 
 <details>
-  <summary><h3>🍕 Roadmap</h3></summary>
+  <summary><h3>🍕 Frontend Roadmap</h3></summary>
 
 <br>
 
-| Topic | Recourse | Links | Notes |
+| Topic | Resourse | Links | Notes |
 |:---|:---|:---:|---|
 | HTML | Youtube - Dave Gray | [YT](https://www.youtube.com/watch?v=mJgBOIoGihA) | Do this first, learn about semantics and tags and why they are important. |
 | CSS | Youtube - Dave Gray | [YT](https://www.youtube.com/watch?v=n4R2E7O-Ngo) | Get basic understanding of CSS classes, and practices with simple projects. |
@@ -453,7 +488,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | TailwindCSS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=6biMWgD6_JY&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Great explanations, and hands on parctice. |
 | TailwindCSS | Dave Gray | [YT](https://www.youtube.com/watch?v=lCxcTsOHrjo&t=3s&pp=ygUSdGFpbHdpbmRjc3MgY291cnNl) | Dave is really good with CSS, smh.
 | |
-| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=Bvwq_S0n2pk) | Pure beginner friendly course for React. Hitesh sir is super particular about industry standards. |
+| ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=Bvwq_S0n2pk) - [repo](https://github.com/arindal1/React-Lookup) | Pure beginner friendly course for React. Hitesh sir is super particular about industry standards. |
 | ReactJS | Hitesh Choudhary | [YT](https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) | This series is in ***Hindi***, equivalent to the course above.|
 | ReactJS | SuperSimpleDev | [YT](https://www.youtube.com/watch?v=TtPXvEcE11E&pp=ygUMcmVhY3QgY291cnNl0gcJCQwKAYcqIYzv) | Simon is always straightforward, and tries his best to keep things simple but good quality. |
 | ReactJS | JavascriptMastery | [YT](https://www.youtube.com/watch?v=dCLhUialKPQ&pp=ygUMcmVhY3QgY291cnNl) | Once you have understood basics of React, watch this. |
@@ -465,9 +500,30 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | |
 | Testing | dotconferences | [YT](https://www.youtube.com/watch?v=l3qjQpYBR8c) | Testing is an essential but advanced part of development. This video tells you all about testing in industry. |
 | Jest | FreeCodeCamp | [YT](https://www.youtube.com/watch?v=IPiUDhwnZxA) | Jest is a Javascript testing tech. | 
+| Authentication | Hayk Simonyan | [YT](https://www.youtube.com/watch?v=9JPnN1Z_iSY&pp=ygUOYXV0aGVudGljYXRpb24%3D) | Hayk Simonyan | Basic understanding of different Authentication methods like JWT, OAuth, etc. |
 | |
+| Web API | Keep on Coding | [YT](https://www.youtube.com/watch?v=_7rT-ixivWU) | Basics of Web API. |
+| Types of APIs | Codist | [YT](https://www.youtube.com/watch?v=pBASqUbZgkY&pp=ygUMQVBJIGluIGRlcHRo) | Different types of APIs used in the industry, and why? |
+| Rest API | IBM Tech | [YT](https://www.youtube.com/watch?v=lsMQRaeKNDk&t=170s&pp=ygUMQVBJIGluIGRlcHRo) | A little about Restful APIs |
+| |
+| Web Security | Arkenstone Learning | [YT](https://www.youtube.com/playlist?list=PLH8n_ayg-60J9i3nsLybper-DR3zJw6Z5) | This a playlist that focuses on WebSecurity through ZAP, not super important, but do learn the theory. |
+| |
+| SSR | Microsoft Developer | [YT](https://www.youtube.com/watch?v=okvg3MRAPs0) | What is Server Side Rendering? |
+| SSR | Smoljames | [YT](https://www.youtube.com/watch?v=ObrSuDYMl1s) | Server Side Rendering vs Client Side Rendering |
+| NextJs | FreeCodeCamp | [YT](https://www.youtube.com/watch?v=1WmNXEVia8I) | Well, if you have got your hands on React, and want to dive into SSR. Well, NextJS is the best. And... it's taught by the Head of Developer Community at Vercel! |
+| SSG | Net Ninja | [YT](https://www.youtube.com/watch?v=Qms4k6y7OgI) | Static Site Generators (SSGs) build websites as pre-generated HTML files from content and templates. Make sites fast, secure, and easy to host. (kinda optional) |
+| |
+| Design System | Figma | [YT](https://www.youtube.com/watch?v=YLo6g58vUm0) | Well designing your site is also important. |
+| Deployments | - Multiple - | [Netlify](https://www.youtube.com/watch?v=NBrQp6-721c) - [Github](https://www.youtube.com/watch?v=8hrJ4oN1u_8) - [Vercel](https://www.youtube.com/watch?v=Vx5nPGdsFaU) - [Render](https://www.youtube.com/watch?v=yWxBUcG_C7g) - | How to deploy your code in the Internet. |
+| |
+| Web Performance | Dmitriy Zhiganov | [YT](https://www.youtube.com/watch?v=KUdqbIHn8Ic) | How to enhance the performance of your site. Design Systems. |
+| Lighthouse | WPDev | [YT](https://www.youtube.com/watch?v=_eM7hmORXZA) | Lighthouse is an open-source, automated tool for improving the quality of web pages.  |
+| Dev Tools | Tobi Mey | [YT](https://www.youtube.com/watch?v=2CC0fugc_2o) | DevTools are a set of web developer tools built directly into web browsers. |
+| Service Workers | Udacity | [YT](https://www.youtube.com/watch?v=A6MHtKkA0CA) | Service Workers are JavaScript files that act as proxy servers between web browsers and web servers.  |
+| Accessibility | Chrome | [YT](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) | Understanding Accessibility and it's importance for websites. |
 
-> under progress...
+
+> that should be all for Frontend development. Rest is upto practice and projects.
 
 </details>
 
@@ -477,7 +533,18 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ## 📁 System Design Structure
 
-[ IN PROGRESS ]
+
+| Topic | Resource | Links | Notes |
+| -- | -- | -- | -- |
+| Introduction | Crio.do | [article](https://www.crio.do/blog/a-comprehensive-guide-to-system-design/) | Basic intro to System Design and Engineering. |
+| Guide | Swimm | [article](https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques) | Basic intro to System Design and patterns. |
+| The Primer | donnemartin | [repo](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question) | **The System Design Primer**. It's the *Holy Grail* for SDEs, trust me. |
+| SD Template | Top Cat | [leetcode](https://leetcode.com/discuss/post/229177/my-system-design-template-by-topcat-vtk2/) | A template for how to approach designing an efficient System. |
+| SD Questions | HiredInTech | [article](https://www.hiredintech.com/system-design/) | In this course you will see what such system design interview questions look like and what is expected from you in order to solve them. |
+| SD Interviews | Jackson Gabbard | [YT](https://www.youtube.com/watch?v=ZgdS0EUmn70) | Walk through the context and goals of a systems design and architecture interview. |
+
+
+> [ IN PROGRESS ]
 
 
 ---
