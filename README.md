@@ -454,7 +454,7 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🌲 Medium | Right Side View of BT | [📄 MD](13.BinaryTrees/02.Medium/13.1.RightSide.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.1.RightSide.cpp) |
 | 🌲 Medium | Left Side View of BT | [📄 MD](13.BinaryTrees/02.Medium/13.2.LeftSide.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.2.LeftSide.cpp) |
 | 🌲 Medium | Symmetric BT | [📄 MD](13.BinaryTrees/02.Medium/12.SymmetricTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/12.SymmetricTree.cpp) |
-| 🌲 Medium | Invert Binary Tree | [📄 MD](13.BinaryTrees/02.Medium/15.InvertTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/15.InvertTree.cpp) |
+| 🌲 Medium | Invert Binary Tree | [📄 MD](13.BinaryTrees/02.Medium/15.InvertTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/15.InvertTree.cpp) |z
 | 🌲 Medium | Minimum Depth of BT | [📄 MD](13.BinaryTrees/02.Medium/14.MinimumDepth.md) | [💻 CPP](13.BinaryTrees/02.Medium/14.MinimumDepth.cpp) |
 | |
 | 🎋 Hard | Flatten Binary Tree | [📄 MD](13.BinaryTrees/03.Hard/14.Flattentree.md) | [💻 CPP](13.BinaryTrees/03.Hard/14.FlattenTree.cpp) |
@@ -468,11 +468,10 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 ## ⚛️ Development Structure
 
-> This is a roadmap for devlopment in Javascript. If you're interested in frontend development through React and Javascript, follow this roadmap in the given order. <br> 
 > I know this might seem like a lot, but success only comes to those who persist, and don't give up. Anyway, as you progress through the foundations, the later parts become easier.
 
 <details>
-  <summary><h3>🍕 Frontend Roadmap</h3></summary>
+  <summary><h3>🍕 React Frontend Roadmap</h3></summary>
 
 <br>
 
@@ -537,6 +536,77 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 </details>
 
+<details>
+  <summary><h3>🔰 Node Backend Roadmap</h3></summary>
+
+<br>
+
+In progress.
+
+
+</details>
+
+
+<details>
+  <summary><h3>🍵 Java Roadmap</h3></summary>
+
+<br>
+
+
+#### Phase 1: Core JAVA + OOP
+
+- Java memory model (Heap v Stack)
+- OOP Principles
+- SOLID Principles
+- Generics, Lamda, Streams
+- Exception Handling
+- Immutibility & Best Practices
+- JVM Internals
+
+### Phase 2: DSA
+
+- FAANG Level prep
+- Clean Code
+- Edge-case handling
+- TIME + Space Complexity
+
+### Phase 3: Multithreading & Concurrency
+
+- Thread lifecycle
+- Synchronization v Locks
+- Deadlocks, Starvation
+- ExecutorService
+- Completable Future
+- Concurrent Collections
+
+### Phase 4: Spring Boot + RestAPIs
+
+- Spring Core & Dependency Injection
+- Spring Boot auto-config
+- RestAPI design
+- Validation & Execution Handling
+- Spring Security (JWT + Role Based)
+- Logging & Monitoring
+- Unit + Integration testing
+
+### Phase 5: Databses
+
+- SQL:
+  - Indexing & query optimizations
+  - Joins & Subqueries
+  - ACID v BASE
+
+- NoSQL:
+  - MongoDB schema design
+  - when to use SQL & noSQL
+  - Redis Caching
+
+### Phase 6: System Design
+
+Below 🔽🔽
+
+
+</details>
 
 
 ---
