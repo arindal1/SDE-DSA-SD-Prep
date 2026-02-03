@@ -430,36 +430,59 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 
 | Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
 | ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| 🌳 Traversals | Introductions | [📄 MD](13.BinaryTrees/01.Basics/01.Introduction.md) | - |
-| 🌳 Traversals | Binary Trees in C++ | [📄 MD](13.BinaryTrees/01.Basics/02.BTinCpp.md) | - |
-| 🌳 Traversals | Preorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/03.Preorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/03.Preorder.cpp) |
-| 🌳 Traversals | Inorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/04.Inorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/04.Inorder.cpp) |
-| 🌳 Traversals | Postorder - Recursive | [📄 MD](13.BinaryTrees/01.Basics/05.Postorder.md) | [💻 CPP](13.BinaryTrees/01.Basics/05.Postorder.cpp) |
-| 🌳 Traversals | Level Order | [📄 MD](13.BinaryTrees/01.Basics/06.LevelOrder.md) | [💻 CPP](13.BinaryTrees/01.Basics/06.LevelOrder.cpp) |
-| 🌳 Traversals | Preorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/07.Preorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/07.Preorder2.cpp) |
-| 🌳 Traversals | Inorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/08.Inorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/08.Inorder2.cpp) |
-| 🌳 Traversals | Postorder - Iterative | [📄 MD](13.BinaryTrees/01.Basics/09.Postorder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/09.Postorder2.cpp) |
-| 🌳 Traversals | Level Order - Bottom First | [📄 MD](13.BinaryTrees/01.Basics/10.LevelOrder2.md) | [💻 CPP](13.BinaryTrees/01.Basics/10.LevelOrder2.cpp) |
+| 🌳 Traversals | Introductions | [📄 MD](13.Binary_Trees/01.Basics/01.Introduction.md) | - |
+| 🌳 Traversals | Binary Trees in C++ | [📄 MD](13.Binary_Trees/01.Basics/02.BTinCpp.md) | - |
+| 🌳 Traversals | Preorder - Recursive | [📄 MD](13.Binary_Trees/01.Basics/03.Preorder.md) | [💻 CPP](13.Binary_Trees/01.Basics/03.Preorder.cpp) |
+| 🌳 Traversals | Inorder - Recursive | [📄 MD](13.Binary_Trees/01.Basics/04.Inorder.md) | [💻 CPP](13.Binary_Trees/01.Basics/04.Inorder.cpp) |
+| 🌳 Traversals | Postorder - Recursive | [📄 MD](13.Binary_Trees/01.Basics/05.Postorder.md) | [💻 CPP](13.Binary_Trees/01.Basics/05.Postorder.cpp) |
+| 🌳 Traversals | Level Order | [📄 MD](13.Binary_Trees/01.Basics/06.LevelOrder.md) | [💻 CPP](13.Binary_Trees/01.Basics/06.LevelOrder.cpp) |
+| 🌳 Traversals | Preorder - Iterative | [📄 MD](13.Binary_Trees/01.Basics/07.Preorder2.md) | [💻 CPP](13.Binary_Trees/01.Basics/07.Preorder2.cpp) |
+| 🌳 Traversals | Inorder - Iterative | [📄 MD](13.Binary_Trees/01.Basics/08.Inorder2.md) | [💻 CPP](13.Binary_Trees/01.Basics/08.Inorder2.cpp) |
+| 🌳 Traversals | Postorder - Iterative | [📄 MD](13.Binary_Trees/01.Basics/09.Postorder2.md) | [💻 CPP](13.Binary_Trees/01.Basics/09.Postorder2.cpp) |
+| 🌳 Traversals | Level Order - Bottom First | [📄 MD](13.Binary_Trees/01.Basics/10.LevelOrder2.md) | [💻 CPP](13.Binary_Trees/01.Basics/10.LevelOrder2.cpp) |
 | |
-| 🌲 Medium | Max Depth of BT | [📄 MD](13.BinaryTrees/02.Medium/01.MaxDepth.md) | [💻 CPP](13.BinaryTrees/02.Medium/01.MaxDepth.cpp) |
-| 🌲 Medium | Is BT Balanced? | [📄 MD](13.BinaryTrees/02.Medium/02.BalancedBinaryTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/02.BalancedBinaryTree.cpp) |
-| 🌲 Medium | Diameter of BT | [📄 MD](13.BinaryTrees/02.Medium/03.DiameterOfTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/03.DiameterOfTree.cpp) |
-| 🌲 Medium | Max Sum of Path | [📄 MD](13.BinaryTrees/02.Medium/04.MaxPath.md) | [💻 CPP](13.BinaryTrees/02.Medium/04.MaxPath.cpp) |
-| 🌲 Medium | Is it the Same Tree? | [📄 MD](13.BinaryTrees/02.Medium/13.SameTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.SameTree.cpp) |
-| 🌲 Medium | Zig zag Traversal | [📄 MD](13.BinaryTrees/02.Medium/06.ZigZag.md) | [💻 CPP](13.BinaryTrees/02.Medium/06.ZigZag.cpp) |
-| 🌲 Medium | BT Boundary Traversal | [📄 MD](13.BinaryTrees/02.Medium/07.BoundaryTraversal.md) | [💻 CPP](13.BinaryTrees/02.Medium/07.BoundaryTraversal.cpp) |
-| 🌲 Medium | Vertical Traversal in BT | [📄 MD](13.BinaryTrees/02.Medium/08.VerticalOrder.md) | [💻 CPP](13.BinaryTrees/02.Medium/08.VerticalOrder.cpp) |
-| 🌲 Medium | Top View in BT | [📄 MD](13.BinaryTrees/02.Medium/09.TopView.md) | [💻 CPP](13.BinaryTrees/02.Medium/09.TopView.cpp) |
-| 🌲 Medium | Bottom View in BT | [📄 MD](13.BinaryTrees/02.Medium/10.BottomView.md) | [💻 CPP](13.BinaryTrees/02.Medium/10.BottomView.cpp) |
-| 🌲 Medium | Right Side View of BT | [📄 MD](13.BinaryTrees/02.Medium/13.1.RightSide.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.1.RightSide.cpp) |
-| 🌲 Medium | Left Side View of BT | [📄 MD](13.BinaryTrees/02.Medium/13.2.LeftSide.md) | [💻 CPP](13.BinaryTrees/02.Medium/13.2.LeftSide.cpp) |
-| 🌲 Medium | Symmetric BT | [📄 MD](13.BinaryTrees/02.Medium/12.SymmetricTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/12.SymmetricTree.cpp) |
-| 🌲 Medium | Invert Binary Tree | [📄 MD](13.BinaryTrees/02.Medium/15.InvertTree.md) | [💻 CPP](13.BinaryTrees/02.Medium/15.InvertTree.cpp) |z
-| 🌲 Medium | Minimum Depth of BT | [📄 MD](13.BinaryTrees/02.Medium/14.MinimumDepth.md) | [💻 CPP](13.BinaryTrees/02.Medium/14.MinimumDepth.cpp) |
+| 🌲 Medium | Max Depth of BT | [📄 MD](13.Binary_Trees/02.Medium/01.MaxDepth.md) | [💻 CPP](13.Binary_Trees/02.Medium/01.MaxDepth.cpp) |
+| 🌲 Medium | Is BT Balanced? | [📄 MD](13.Binary_Trees/02.Medium/02.BalancedBinaryTree.md) | [💻 CPP](13.Binary_Trees/02.Medium/02.BalancedBinaryTree.cpp) |
+| 🌲 Medium | Diameter of BT | [📄 MD](13.Binary_Trees/02.Medium/03.DiameterOfTree.md) | [💻 CPP](13.Binary_Trees/02.Medium/03.DiameterOfTree.cpp) |
+| 🌲 Medium | Max Sum of Path | [📄 MD](13.Binary_Trees/02.Medium/04.MaxPath.md) | [💻 CPP](13.Binary_Trees/02.Medium/04.MaxPath.cpp) |
+| 🌲 Medium | Is it the Same Tree? | [📄 MD](13.Binary_Trees/02.Medium/13.SameTree.md) | [💻 CPP](13.Binary_Trees/02.Medium/13.SameTree.cpp) |
+| 🌲 Medium | Zig zag Traversal | [📄 MD](13.Binary_Trees/02.Medium/06.ZigZag.md) | [💻 CPP](13.Binary_Trees/02.Medium/06.ZigZag.cpp) |
+| 🌲 Medium | BT Boundary Traversal | [📄 MD](13.Binary_Trees/02.Medium/07.BoundaryTraversal.md) | [💻 CPP](13.Binary_Trees/02.Medium/07.BoundaryTraversal.cpp) |
+| 🌲 Medium | Vertical Traversal in BT | [📄 MD](13.Binary_Trees/02.Medium/08.VerticalOrder.md) | [💻 CPP](13.Binary_Trees/02.Medium/08.VerticalOrder.cpp) |
+| 🌲 Medium | Top View in BT | [📄 MD](13.Binary_Trees/02.Medium/09.TopView.md) | [💻 CPP](13.Binary_Trees/02.Medium/09.TopView.cpp) |
+| 🌲 Medium | Bottom View in BT | [📄 MD](13.Binary_Trees/02.Medium/10.BottomView.md) | [💻 CPP](13.Binary_Trees/02.Medium/10.BottomView.cpp) |
+| 🌲 Medium | Right Side View of BT | [📄 MD](13.Binary_Trees/02.Medium/13.1.RightSide.md) | [💻 CPP](13.Binary_Trees/02.Medium/13.1.RightSide.cpp) |
+| 🌲 Medium | Left Side View of BT | [📄 MD](13.Binary_Trees/02.Medium/13.2.LeftSide.md) | [💻 CPP](13.Binary_Trees/02.Medium/13.2.LeftSide.cpp) |
+| 🌲 Medium | Symmetric BT | [📄 MD](13.Binary_Trees/02.Medium/12.SymmetricTree.md) | [💻 CPP](13.Binary_Trees/02.Medium/12.SymmetricTree.cpp) |
+| 🌲 Medium | Invert Binary Tree | [📄 MD](13.Binary_Trees/02.Medium/15.InvertTree.md) | [💻 CPP](13.Binary_Trees/02.Medium/15.InvertTree.cpp) |z
+| 🌲 Medium | Minimum Depth of BT | [📄 MD](13.Binary_Trees/02.Medium/14.MinimumDepth.md) | [💻 CPP](13.Binary_Trees/02.Medium/14.MinimumDepth.cpp) |
 | |
-| 🎋 Hard | Flatten Binary Tree | [📄 MD](13.BinaryTrees/03.Hard/14.Flattentree.md) | [💻 CPP](13.BinaryTrees/03.Hard/14.FlattenTree.cpp) |
+| 🎋 Hard | Root to Node Path | [📄 MD](13.Binary_Trees/03.Hard/01.PathFromNodeToLeaf.md) | [💻 CPP](13.Binary_Trees/03.Hard/01.PathFromNodeToLeaf.cpp) |
+| 🎋 Hard | Lowerst Common Ancestor | [📄 MD](13.Binary_Trees/03.Hard/02.LCA.md) | [💻 CPP](13.Binary_Trees/03.Hard/02.LCA.cpp) |
+| 🎋 Hard | Maximum Width of BT | [📄 MD](13.Binary_Trees/03.Hard/03.MaxWidth.md) | [💻 CPP](13.Binary_Trees/03.Hard/03.MaxWidth.cpp) |
+| 🎋 Hard | Children Sum Property I | [📄 MD](13.Binary_Trees/03.Hard/04.ChildSum.md) | [💻 CPP](13.Binary_Trees/03.Hard/04.ChildSum.cpp) |
+| 🎋 Hard | Children Sum Property II | [📄 MD](13.Binary_Trees/03.Hard/04.1.CheckChildSum.md) | [💻 CPP](13.Binary_Trees/03.Hard/04.1.CheckChildSum.cpp) |
+| 🎋 Hard | All Nodes at a distance K | [📄 MD](13.Binary_Trees/03.Hard/05.NodesAtDistK.md) | [💻 CPP](13.Binary_Trees/03.Hard/05.NodesAtDistK.cpp) |
+| 🎋 Hard | Minimum Time to Burn Tree | [📄 MD](13.Binary_Trees/03.Hard/06.MinTimeBurn.md) | [💻 CPP](13.Binary_Trees/03.Hard/06.MinTimeBurn.cpp) |
+| 🎋 Hard | Count Total Nodes | [📄 MD](13.Binary_Trees/03.Hard/07.CountNodes.md) | [💻 CPP](13.Binary_Trees/03.Hard/07.CountNodes.cpp) |
+| 🎋 Hard | Construct BT from Inorder | [📄 MD](13.Binary_Trees/03.Hard/08.ConstructBT.md) | [💻 CPP](13.Binary_Trees/03.Hard/08.ConstructBT.cpp) |
+| 🎋 Hard | Contruct BT from Postorder | [📄 MD](13.Binary_Trees/03.Hard/09.ConstructBT2.md) | [💻 CPP](13.Binary_Trees/03.Hard/09.ConstructBT2.cpp) |
+| 🎋 Hard | Serialize and Deserialize | [📄 MD](13.Binary_Trees/03.Hard/10.SerDeSer.md) | [💻 CPP](13.Binary_Trees/03.Hard/10.SerDeSer.cpp) |
+| 🎋 Hard | Morris Inorder Traversal | [📄 MD](13.Binary_Trees/03.Hard/11.MorrisInorder.md) | [💻 CPP](13.Binary_Trees/03.Hard/11.MorrisInorder.cpp) |
+| 🎋 Hard | Flatten Binary Tree | [📄 MD](13.Binary_Trees/03.Hard/1.Flattentree.md) | [💻 CPP](13.Binary_Trees/03.Hard/12.FlattenTree.cpp) |
 
+</details>
 
+<details>
+  <summary><h3>🦜 Binary Search Trees</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🚲 Concepts | Introduction | [📄 MD](14.Binary_Search_Trees/01.Intro/01.Introduction.md) | [💻 CPP](14.Binary_Search_Trees/01.Intro/01.Introduction.cpp) |
+| 🚲 Concepts | Search in BST | [📄 MD](14.Binary_Search_Trees/01.Intro/02.Search.md) | [💻 CPP](14.Binary_Search_Trees/01.Intro/02.Search.cpp) |
+| 🚲 Concepts | Find Min / Max | [📄 MD](14.Binary_Search_Trees/01.Intro/03.MinMax.md) | [💻 CPP](14.Binary_Search_Trees/01.Intro/03.MinMax.cpp) |
+| |
+| 🛼 Medium | - | [📄 MD](14.Binary_Search_Trees/02.Medium) | [💻 CPP](14.Binary_Search_Trees/02.Medium) |
 
 
 </details>
