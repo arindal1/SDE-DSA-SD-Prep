@@ -482,7 +482,44 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🚲 Concepts | Search in BST | [📄 MD](14.Binary_Search_Trees/01.Intro/02.Search.md) | [💻 CPP](14.Binary_Search_Trees/01.Intro/02.Search.cpp) |
 | 🚲 Concepts | Find Min / Max | [📄 MD](14.Binary_Search_Trees/01.Intro/03.MinMax.md) | [💻 CPP](14.Binary_Search_Trees/01.Intro/03.MinMax.cpp) |
 | |
-| 🛼 Medium | - | [📄 MD](14.Binary_Search_Trees/02.Medium) | [💻 CPP](14.Binary_Search_Trees/02.Medium) |
+| 🛼 Medium | Ceiling of K in BST | [📄 MD](14.Binary_Search_Trees/02.Medium/01.CeilOfK.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/01.CeilOfK.cpp) |
+| 🛼 Medium | Floor of K in BST | [📄 MD](14.Binary_Search_Trees/02.Medium/02.FloorOfK.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/02.FloorOfK.cpp) |
+| 🛼 Medium | Insertion into BST | [📄 MD](14.Binary_Search_Trees/02.Medium/03.InsertIntoBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/03.InsertIntoBST.cpp) |
+| 🛼 Medium | Delete Node from BST | [📄 MD](14.Binary_Search_Trees/02.Medium/04.DeleteNode.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/04.DeleteNode.cpp) |
+| 🛼 Medium | Find Kth Smallest & Largest | [📄 MD](14.Binary_Search_Trees/02.Medium/05.KMinMax.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/05.KMinMax.cpp) |
+| 🛼 Medium | Validate a BST | [📄 MD](14.Binary_Search_Trees/02.Medium/06.ValidateBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/06.ValidateBST.cpp) |
+| 🛼 Medium | Least Common Ancestor | [📄 MD](14.Binary_Search_Trees/02.Medium/07.LCA.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/07.LCA.cpp) |
+| 🛼 Medium | Build a Unique BST | [📄 MD](14.Binary_Search_Trees/02.Medium/08.BuildBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/08.BuildBST.cpp) |
+| 🛼 Medium | Inorder Succesor in BST | [📄 MD](14.Binary_Search_Trees/02.Medium/09.Successor.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/09.Successor.cpp) |
+| 🛼 Medium | Merge Two BSTs | [📄 MD](14.Binary_Search_Trees/02.Medium/10.MergeBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/10.MergeBST.cpp) |
+| 🛼 Medium | Two Sum IV | [📄 MD](14.Binary_Search_Trees/02.Medium/11.TwoSumBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/11.TwoSumBST.cpp) |
+| 🛼 Medium | Recover BST | [📄 MD](14.Binary_Search_Trees/02.Medium/12.RecoverBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/12.RecoverBST.cpp) |
+| 🛼 Medium | Max Sum in BST | [📄 MD](14.Binary_Search_Trees/02.Medium/13.MaxSum.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/13.MaxSum.cpp) |
+| 🛼 Medium | Largest BST Subtree | [📄 MD](14.Binary_Search_Trees/02.Medium/14.LargestBST.md) | [💻 CPP](14.Binary_Search_Trees/02.Medium/14.LargestBST.cpp) |
+
+
+</details>
+
+
+<details>
+  <summary><h3>💹 Graphs</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🎯 Basics | Introduction | [📄 MD](15.Graphs/01.Basics/01.Introduction.md) | [💻 CPP](15.Graphs/01.Basics/01.Introduction.cpp) |
+| 🎯 Basics | Graphs in CPP | [📄 MD](15.Graphs/01.Basics/02.GraphInCpp.md) | - |
+| 🎯 Basics | Graphs in Java | [📄 MD](15.Graphs/01.Basics/03.GraphInJava.md) | - |
+| 🎯 Basics | Graphs in Javascript | [📄 MD](15.Graphs/01.Basics/04.GraphInJs.md) | - |
+| 🎯 Basics | Connected Components in Graph | [📄 MD](15.Graphs/01.Basics/05.ConnectedComponents.md) | [💻 CPP](15.Graphs/01.Basics/05.ConnectedComponents.cpp) |
+| 🎯 Basics | BFS Traversal in Graphs | [📄 MD](15.Graphs/01.Basics/06.BFS.md) | [💻 CPP](15.Graphs/01.Basics/06.BFS.cpp) |
+| 🎯 Basics | DFS Traversal in Graphs | [📄 MD](15.Graphs/01.Basics/07.DFS.md) | [💻 CPP](15.Graphs/01.Basics/07.DFS.cpp) |
+| |
+| 🧩 Medium | Number of Provinces | [📄 MD](15.Graphs/02.Medium/01.Provinces.md) | [💻 CPP](15.Graphs/02.Medium/01.Provinces.cpp) |
+| 🧩 Medium | Rotten Oranges | [📄 MD](15.Graphs/02.Medium/02.RottenOranges.md) | [💻 CPP](15.Graphs/02.Medium/02.RottenOranges.cpp) |
+| 🧩 Medium | Flood Fill | [📄 MD](15.Graphs/02.Medium/03.FloodFill.md) | [💻 CPP](15.Graphs/02.Medium/03.FloodFill.cpp) |
+| 🧩 Medium | Detect Cycle in Undirected Graph - BFS | [📄 MD](15.Graphs/02.Medium/04.CycleInUndirected.md) | [💻 CPP](15.Graphs/02.Medium/04.CycleInUndirected.cpp) |
+| 🧩 Medium | Detect Cycle in Undirected Graph - DFS | [📄 MD](15.Graphs/02.Medium/05.CycleInUndirectedII.md) | [💻 CPP](15.Graphs/02.Medium/05.CycleInUndirectedII.cpp) |
+| 🧩 Medium | - | [📄 MD](15.Graphs/02.Medium) | [💻 CPP](15.Graphs/02.Medium) |
 
 
 </details>
