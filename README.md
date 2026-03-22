@@ -519,6 +519,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🧩 Medium | Flood Fill | [📄 MD](15.Graphs/02.Medium/03.FloodFill.md) | [💻 CPP](15.Graphs/02.Medium/03.FloodFill.cpp) |
 | 🧩 Medium | Detect Cycle in Undirected Graph - BFS | [📄 MD](15.Graphs/02.Medium/04.CycleInUndirected.md) | [💻 CPP](15.Graphs/02.Medium/04.CycleInUndirected.cpp) |
 | 🧩 Medium | Detect Cycle in Undirected Graph - DFS | [📄 MD](15.Graphs/02.Medium/05.CycleInUndirectedII.md) | [💻 CPP](15.Graphs/02.Medium/05.CycleInUndirectedII.cpp) |
+| 🧩 Medium | Surrounded Regions | [📄 MD](15.Graphs/02.Medium/07.Surrounded.md) | [💻 CPP](15.Graphs/02.Medium/07.Surrounded.cpp) |
+| 🧩 Medium | Number of Enclaves | [📄 MD](15.Graphs/02.Medium/08.Enclaves.md) | [💻 CPP](15.Graphs/02.Medium/08.Enclaves.cpp) |
 | 🧩 Medium | - | [📄 MD](15.Graphs/02.Medium) | [💻 CPP](15.Graphs/02.Medium) |
 
 
