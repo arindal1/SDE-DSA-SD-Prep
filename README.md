@@ -521,11 +521,29 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 | 🧩 Medium | Detect Cycle in Undirected Graph - DFS | [📄 MD](15.Graphs/02.Medium/05.CycleInUndirectedII.md) | [💻 CPP](15.Graphs/02.Medium/05.CycleInUndirectedII.cpp) |
 | 🧩 Medium | Surrounded Regions | [📄 MD](15.Graphs/02.Medium/07.Surrounded.md) | [💻 CPP](15.Graphs/02.Medium/07.Surrounded.cpp) |
 | 🧩 Medium | Number of Enclaves | [📄 MD](15.Graphs/02.Medium/08.Enclaves.md) | [💻 CPP](15.Graphs/02.Medium/08.Enclaves.cpp) |
-| 🧩 Medium | - | [📄 MD](15.Graphs/02.Medium) | [💻 CPP](15.Graphs/02.Medium) |
+| 🧩 Medium | Word Ladder | [📄 MD](15.Graphs/02.Medium/09.WordLadder.md) | [💻 CPP](15.Graphs/02.Medium/09.WordLadder.cpp) |
+| 🧩 Medium | Word Ladder II | [📄 MD](15.Graphs/02.Medium/10.WordLadderII.md) | [💻 CPP](15.Graphs/02.Medium/10.WordLadderII.cpp) |
+| 🧩 Medium | Number of Islands | [📄 MD](15.Graphs/02.Medium/11.Islands.md) | [💻 CPP](15.Graphs/02.Medium/11.Islands.cpp) |
+| 🧩 Medium | Bipartite Graph | [📄 MD](15.Graphs/02.Medium/12.Bipartite.md) | [💻 CPP](15.Graphs/02.Medium/12.Bipartite.cpp) |
+| 🧩 Medium | Detect Cycle in Directed Graph - DFS | [📄 MD](15.Graphs/02.Medium) | [💻 CPP](15.Graphs/02.Medium) |
+| |
+| 🧸 Topo Sort | - | [📄 MD](15.Graphs/03.TopoSort) | [💻 CPP](15.Graphs/03.TopoSort) |
+| |
+
+</details>
+
+
+<details>
+  <summary><h3>🎖️ Dynamic Programming</h3></summary>
+
+| Category      | Problem / Algorithm                 | Explanation                                           | Code                                                    |
+| ---------------- | ----------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 🍭 Basics | - | [📄 MD](16.Dynamic_Programming/01.Basics) | [💻 CPP](16.Dynamic_Programming/01.Basics) |
 
 
 </details>
 
+<br>
 ---
 
 ## ⚛️ Development Structure
