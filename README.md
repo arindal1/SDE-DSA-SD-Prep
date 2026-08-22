@@ -544,6 +544,8 @@ Each problem is thoughtfully categorized, solved in **C++**, and accompanied by 
 </details>
 
 <br>
+
+
 ---
 
 ## ⚛️ Development Structure
@@ -693,6 +695,49 @@ Below 🔽🔽
 
 ## 📁 System Design Structure
 
+
+<details>
+  <summary><h3>🧠 Low level Design</h3></summary>
+
+<br>
+
+| Sl No. | Topic | Link |
+| -- | -- | -- |
+
+</details>
+
+<details>
+  <summary><h3>🔍 High level Design</h3></summary>
+
+<br>
+
+| Sl No. | Topic | Link |
+| -- | -- | -- |
+| 1 | HLD Overview | [markdown](02.system_design/02.High_Level_Design/README.md) |
+| 2 | How to Approach HLD | [markdown](02.system_design/02.High_Level_Design/01.Basics/How_To_Approach_System_Design.md) |
+| |
+| 3 | Scalability Overview | [markdown](02.system_design/02.High_Level_Design/02.Scaling/README.md) |
+| 4 | Performace vs Scalability | [markdown](02.system_design/02.High_Level_Design/02.Scaling/02.Performance_v_Scalability.md) |
+| 5 | Latency vs Throughput | [markdown](02.system_design/02.High_Level_Design/02.Scaling/03.Latency_v_Throughput.md) |
+| 5a | Latency for One Task | [markdown](02.system_design/02.High_Level_Design/02.Scaling/03.1.Latency_For_One_Task.cpp) |
+| 5b | Latency for Multiple Tasks | [markdown](02.system_design/02.High_Level_Design/02.Scaling/03.2.Throughput_For_Multiple_Tasks.cpp) |
+| 5c | Batching | [markdown](02.system_design/02.High_Level_Design/02.Scaling/03.3.Batching.cpp) |
+| 6 | Availability vs Consistency / CAP Theorem | [markdown](02.system_design/02.High_Level_Design/02.Scaling/04.Availability_v_Consistency.md) |
+| |
+| 7 | Consistency Patterns | [markdown](02.system_design/02.High_Level_Design/03.Consistency_Patterns/README.md) |
+| 8 | Availablity Patterns | [markdown](02.system_design/02.High_Level_Design/04.Availability_Patterns/README.md) |
+| |
+| 9 | Background Jobs | [markdown](02.system_design/02.High_Level_Design/05.Background_Jobs/README.md) |
+| 9a | Event Driven Jobs | [markdown](02.system_design/02.High_Level_Design/05.Background_Jobs/01.Event_Driven/README.md) |
+| 9b | Schedule Driven Jobs | [markdown](02.system_design/02.High_Level_Design/05.Background_Jobs/02.Schedule_Driven/README.md) |
+| |
+
+
+
+</details>
+
+
+### 📑 Resources
 
 | Topic | Resource | Links | Notes |
 | -- | -- | -- | -- |
